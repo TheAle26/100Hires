@@ -29,4 +29,4 @@ While trying to connect to Claude Code, this message appeared:
 "Claude Max or Pro is required to connect to Claude Code. Sign up for a Max or Pro subscription to connect your account, or use your API key."
 
 So I tried to use an API Key, and it asked me to buy $5 in credits. I didn't.
-Then I installed Claude Code in the terminal; same problems.
+Then I installed Claude Code in the terminal; same problems.    

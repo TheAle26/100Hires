@@ -1,0 +1,1769 @@
+hello
+everyone and welcome to another search
+engine journal webinar
+today we will be joined by aj rama from
+iquanti
+who will be talking about how to
+prioritize seo initiatives for greatest
+business impact
+we all know the importance of seo but it
+can be difficult to know where to get
+started
+today we're going to show you how you
+can focus your time
+and resources where it really counts my
+name is heather campbell and i'll be
+moderating for you today
+jay can you tell us a little bit about
+yourself before we get into some of the
+webinar housekeeping tips
+uh great thanks heather hello everyone
+um i am aj rama i had uh
+products for high quantity iquanti is a
+performance a digital marketing company
+focused on using data and
+insights from data to really solve
+marketing problems
+i have about 20 odd years of experience
+in using large amounts of data and
+building algorithms on that data
+to glean insights to solve marketing
+problems and
+in specific the last 10 years
+most of my team and i spent time
+crawling millions of pages extracting
+hundreds of variables from those
+millions of pages
+and reverse engineering the google's
+algorithm
+over and over again um and
+all of this the outcome of all of this
+research is is alps
+our uh seo enterprise software
+uh and um you know uh today we'll talk
+about some of our learnings from
+that research uh and how to kind of
+really optimize or how to prioritize
+your seo initiatives uh prior to eye
+quantity i
+kind of uh you know built
+marketing analytics software for
+companies like uh oracle and aol
+um and uh excited about uh speaking to
+you guys today
+heather back to you thanks jay
+so um you know if during today's webinar
+you have any questions
+comments please feel free to leave them
+in the webinar questions box at the
+bottom of your screen
+also we will be asking a few poll
+questions throughout the webinar where
+you will be able to participate and give
+us your thoughts
+we will also have q a at the end of the
+presentation so make sure you stick
+around for that
+and we will do our best through the
+webinar to link any resources or tools
+in the chat
+and on social media but of course if you
+have any questions make sure you ask
+after the webinar we ask that you do
+stick around for a short survey
+it'll take less than five minutes this
+information really helps us gauge what
+works
+what topics you especially are
+interested in and how we can make
+sdj webinars more useful for you lastly
+this entire webinar will be recorded and
+made available through a recap post on
+search engine journal
+this following tuesday but we are going
+to try to get that recording out to you
+a little bit sooner this time so
+be lookout in your email over the next
+day or two
+without any further ado let's dive into
+the webinar
+aj it's all yours thanks heather
+so um while i did talk about all the
+research that me and my team
+have done in understanding google's
+algorithm today we are not going to
+focus on that algorithm we're not going
+to focus on
+seo tactics i think there's enough of
+them
+available all over the internet but what
+we'll really focus on
+is how to get the most out of the seo
+that you already know
+right you know unfortunately there's not
+much spoken on that
+right so we'll focus on how to
+use what you already know and figuring
+out
+which pages to really focus on and what
+parameters to focus on
+and increase the likelihood of your
+ranking right
+then we'll also try to focus understand
+um how to get to the
+seo landscape right you know for your
+company
+um you know really understand what's the
+maximum value that
+seo can drive what you can expect from
+seo and how to eventually
+um you know identify your next set of
+initiatives that will give you the most
+right
+with that i think you know we'll jump
+into the webinar
+again there's various ways in which you
+could kind of categorize
+seo activities for today's discussion we
+kind of took two dimensions and kind of
+uh grouped them um you know segmented
+these activities
+one is the frequency with which they
+happen the other one is the strategic
+impact
+these activities can have the first use
+case that i'll talk about
+is really around optimizing pages i
+think
+uh this is probably something that we
+all do
+whether it is a a or one member shop
+whether it is a large organization
+whether it's a startup
+right optimizing pages is
+something that we kind of you know it's
+a day-to-day seo activity
+and we'll talk about um that second
+group is basically
+more around planning prioritization
+building business cases and things like
+that you know i've seen more
+um you know large teams and large
+organizations focus more
+in that area but you know it could be
+used by anyone
+so we will talk about how to um
+you know uh identify the opportunity
+in a second use case the third area
+is basically activities that are done
+once in a while right you know the big
+you know kind of projects that span
+across months
+but can have a big strategic impact
+right things like
+domain consolidation things like site
+redesign things like you know
+trying to kind of take take your domain
+and kind of split it into multiple
+uh sub domains things like that um so
+uh we'll unfortunately because of uh
+you know uh the lack of time will not
+focus on that section today
+we'll only talk about the uh other two
+and probably maybe kind of uh create a
+separate webinar for
+uh strategic initiatives of starts uh
+so let's jump in to the uh first use
+case which is really about uh
+how to um you know rank better for a
+page
+so today i think the the usual ways one
+ends up you know trying to optimize a
+page
+it could be again you know your specific
+uh use case of your specific need could
+be a little different
+but broadly here are some reasons you
+know why um
+uh somebody ends up there right one is
+you're looking at a page you're revving
+your site and you suddenly feel that hey
+you know
+something needs to change here this page
+is not necessarily representing what it
+should
+or you you have a goal your task with a
+goal to actually improve ranking for a
+particular page
+or you're doing an audit and then you
+kind of end up
+on a page that uh you know the audit
+throws up a few gaps on a particular
+page and you kind of go to that page to
+make those changes these are some of the
+ways you um you know end up focusing on
+improvement or you're writing a new
+piece of content and you want to do your
+best to kind of uh
+rank for that right a few ways how you
+get there
+but the typical the approach that we
+take today right most people take today
+has a few challenges one
+most of the tools today kind of give
+almost like
+checklist kind of outputs around
+what needs to improve on those pages uh
+unfortunately there's too many variables
+uh
+that that you know seo
+optimization involves and trying to
+optimize
+every variable is a lot of work right
+and
+doing that for every page will take too
+much of your effort
+and probably not the best way to kind of
+actually
+um you know try and win an seo right
+the second challenge is a lot of i've
+seen a lot of seos focus on
+one aspect of seo like you know maybe
+you're doing a technical analysis
+and then that threw up a few gaps on
+your page and you kind of go down the
+path of fixing those things right
+and or you you you kind of
+you know trying to improve you know your
+content of the page
+um right uh you know focusing on a
+specific
+aspect of seo sometimes doesn't yield
+the best results yes it may kind of give
+you
+some push but we have to understand that
+google is looking at
+all aspects of seo together right
+like they're looking at hey do you have
+for a given query they're looking at
+pages that are most relevant for that
+for that query then they are saying hey
+given the nature of the industry
+uh does this website which has this
+relevant page for this query
+um have an authority in this particular
+area and if
+they do have the authority and if the
+page is relevant
+then they are looking at is there
+something on this page or the site
+that may provide a bad experience right
+no so
+those then they're looking at all those
+things together and then
+figuring out where they should kind of
+rank you so
+if you are trying to optimize one
+specific aspect of seo
+um that may not kind of you maybe you
+don't have
+you know relevant content but if you
+trying to optimize the page to rank for
+that particular query
+uh without working on content but trying
+to improve the
+the technical aspects it may not yield
+you the results right and vice versa
+the third challenge is uh again you know
+a very common challenge is the
+turnaround time
+so we end up you know making all these
+changes then
+you know um without knowing whether it
+will really
+work or not we um we try to push it for
+production that
+involves basically sometimes especially
+with large companies
+it involves approval of brand teams it
+involves approach of legal
+teams then it goes into a long waiting
+time
+uh you know into the road map of the
+development teams
+and then you know uh then it gets pushed
+uh pushed live right this this this time
+could be
+anywhere you know a few weeks to a few
+months in a few cases
+now and and that's that that's when you
+get to know whether all the changes that
+you made were good enough to really rank
+or not
+right and then you have to repeat this
+process so it takes
+a few weeks to a month in certain cases
+to
+to really get a page to to
+to where you want to rank it right
+and unfortunately the other challenges a
+lot of times
+these pages you would have made all
+these changes and then it's sitting
+there
+in in those approval cycles because
+we have not been able to associate value
+to that changes that you've done
+right we are not able to kind of say hey
+these changes that i have trying to push
+through this development cycle they are
+of you know
+that you know the value of that change
+is really worth
+you know 200k uh uh us dollars or
+the value of all these changes put
+together this can bring uh uh you know
+10 additional conversions to us each
+month we've not been able to ascertain
+that
+because of which you know dev teams or
+other things you know people
+who doing up giving up rules they just
+put it in a queue just like any other
+change
+right so what we'll do it is now
+talk about a framework that we've kind
+of established
+right um you know and this is at the
+heart of alps
+and we've used this with various of our
+clients and we kind of
+uh know that it works every time we use
+it
+right um so let's just jump into the
+framework on
+how to do this right basically with the
+seo that you know
+right now how to get it right the
+first step is to really decide the page
+that you're working
+is the phase that you want to focus on
+right now a lot of times
+you know um you know a post after you
+work on a page for a little while you
+realize that this may not be
+the most valuable page to work on uh two
+things to look at one
+is this page of any strategic importance
+sometimes they may not be volume
+associated with the page but you know if
+it is
+of strategic importance then you still
+want to kind of you know
+optimize that page and ensure that it
+ranks high
+the other times you primarily look at
+volume right
+you know how you know volume of the
+keywords that are targeted
+against the page uh and then see you
+know what is the incremental opportunity
+associated and whether it's worthwhile
+to really focus that
+time and attention on this page right so
+this framework by the way you may not be
+able to do this every
+with every page but uh you want to at
+least
+do this with all your important and and
+and your
+the ones that are likely to give you a
+high return right now you want to do
+this framework apply this framework at
+least with those pages
+so the second step in this process is to
+really score your pages
+again a lot of people might think that
+this is a very complex activity
+right scoring might involve a lot of
+tools i'll quickly talk about
+how to do it even without any tool of
+course you can use
+tools like there are certain tools in
+the market or which already give you
+some kind of scoring or you could
+use tools like alps uh which automate
+this whole process and kind of they may
+make this process more accurate and you
+know exacting
+but you could start even without any
+tool
+right um you know one way to do this is
+take your page look at these three
+aspects
+like content authority technical like
+let's first
+let's start with content look at the
+page look at the keywords in question
+uh see whether the content on the page
+is uh relevant to the query
+see if it kind of has the right intent
+see if the elements are optimized right
+you know
+and qualitatively put a number between
+one and ten
+right rate that page with respect to the
+query on a one to ten scale
+right it doesn't have to be accurate you
+know just rate it whatever you think is
+right
+uh similarly you know look at the kind
+of links that are coming to the page
+look at the relevancy of the links and
+kind of
+put a number to that and um you know run
+the page on
+um you know on on a speed test and kind
+of again
+uh you know uh do a similar thing right
+you know now
+now that you've rated your page and all
+the uh
+three aspects um like i said don't worry
+about it being accurate
+just rate them on this one to ten scale
+now you'll have to do the same on your
+competitors pages as well
+right it's in again this is a very
+important
+step in the process we will show an
+example why it is important in in a
+short while but
+you may have to do this with your
+competitor pages as well
+competition in seo is not necessarily
+your business competitors
+right and i'm sure you heard about this
+but what matters is really
+who is ranking at the top right doesn't
+matter it
+you know a lot of people say hey you
+know i am a bank
+and and i only want to kind of look at
+other banks as my competitors
+and i don't want to come you know the
+other people who are ranking out there
+are aggregators and i don't have
+anything to
+do with them but in in for the users
+you know it doesn't matter right you
+know at that stage in the conversion
+funnel they are
+um whatever content is their ranking
+high that's what they look at so
+they don't necessarily care whether it's
+coming from a bank or an aggregator
+so anybody who ranks ahead of us is
+really competition in seo
+so you want to pick a few pages from the
+top ranking you know from on
+you know from the top 10 results in sub
+and score them
+based on you know the similar kind of
+process that we just talked about
+right based on whatever you think is
+right but be consistent when you're
+rating this whether it's your page or
+competitors page
+right and rotate them on the same one to
+10 score
+now benchmark this right now those three
+parameters against the top you know top
+few uh ranking pages
+and identify area um you know
+whether it is technical whether it is
+content whether it's authority
+that you have a cap on right a
+significant gap on and
+and that's the area that you'd want to
+really work on right
+uh and sometimes it could be more than
+one sometimes it could be both content
+and
+authority sometimes it could be just
+content sometimes it could be just
+technical etc
+right and then uh once you've identified
+this
+area that you have to work on then get
+into the specifics around which
+parameter to focus on and again there's
+enough material out there
+we'll also kind of uh i'll i'll show a
+few parameters that
+are important in each area um you you
+know
+identify the area then get into the
+specifics
+pick a few variables that could be of
+the most that could give you the most
+impact
+then optimize them right now optimize
+them to the best of your knowledge
+right and don't don't push these changes
+live yet don't push them
+you know to your development you know
+ask your dev teams or
+you know uh or you know don't put them
+for approvals
+yet rescore these purges rescore them
+just like you know we did in the earlier
+stage right now before the benchmarking
+and this is a very important step that
+most people miss out because you know
+you think that the changes that you've
+done
+are good enough and then you kind of try
+to push them rescoring kind of
+gives you the the the reason it's
+important is
+the there's a long wait from here till
+you actually see the results
+so you may want to kind of actually do
+your you know
+the you know put your best foot forward
+before you can actually
+you know get into that weight more
+otherwise the cycle kind of repeats
+itself right
+so by rescoring you're ensuring that you
+know
+you are you comfortable with the changes
+you're comfortable with the you know
+gaps that you kind of feel
+and only when you're comfortable that is
+when you are sending it for approvals
+and implementation
+once you implement then you know you you
+basically
+measure your results and can keep on
+improving this framework you know again
+you can modify this framework to your
+own
+uh in in terms of what works for you but
+um here's
+kind of this is some broad thing that
+consistently works for us
+let's take an example and see
+how this works right you know here's the
+first example
+this is for a page that is currently
+ranking at 14 again this is these are
+some
+real results we try to kind of um you
+know
+hash the domain so that you know we
+don't talk about any specific company
+the keyword here that we are talking
+about again is has a
+uh you know such volume about 20 000 so
+for this industry this is again not a
+uh i would say mid funnel kind of
+keyword
+not again you know very high volume
+again not very low
+um so we scored this again we scored
+these pages
+the pages uh through alps but you know
+you could pretty much do
+uh the same thing uh the method that i
+spoke about a little while ago
+um you'd probably end up you may not end
+up with those decimals but you would
+have
+some sense of where you affair so
+looking at this
+seems like authority is where you want
+to work on
+and maybe somewhat of content your
+technical seems to be kind of okay
+right now this is where the challenge
+the moment we bring
+the competition in right it's a
+completely different picture
+again this is a real page these are the
+real scores
+and the moment you bring the competitors
+it's very clear
+that for this particular keyword the top
+ranking pages are not necessarily
+very competitive right you know are uh
+they're not very authoritative
+um um and you know uh they're in the
+middle kind of range it's really your
+relevance that
+that that's a challenge right your page
+needs to kind of
+um you know uh talk more about
+uh that specific intent of the query or
+there is maybe you know certain sub
+topic that is missing things like that
+right so the
+gap that needs you need to work on is
+really the
+content and not the authority as as you
+would have
+you know arrived at with if you did not
+look at the competition
+let's take another example again this is
+a real example
+right currently lanking at 11 you know
+50 000 such volume
+looking at this you would say hey you
+know i'm more or less doing well
+maybe you know there's a little scope on
+content technical
+right um but my authority is kind of
+broadly okay
+right these are the things that you'd
+end up probably working on
+but when you start getting the
+competition right
+you realize that in this particular case
+top ranking pages are
+very authoritative so unless you really
+improve the authoritativeness of your
+page
+or you know in this particular topic
+it's going to be difficult to get to the
+top ranking page
+so that becomes your primary area of
+work right
+so scoring pages will help you
+identify the core area that you want to
+work on
+once you identified that now given
+whether it's content or
+authority then get into the elements
+right
+um so if it's content like i said at a
+higher level look at the
+uh pages intent look at some of these
+sub topics that are
+you know whether you're kind of covering
+all the topics
+um you know related to that particular
+topic look at all the elements if they
+are kind of
+optimized well and
+looking at competition gives you a lot
+of
+inspiration especially with content
+right you know
+content and authority so looking at uh
+the top ranking competitors you could
+look at some of the sub topics that
+they've covered but you missed out look
+at for example sub headers like h2s
+histories what did they talk about right
+now what did you miss in your
+page that gives you ideas then look at
+their titles how they've optimized that
+gives you ideas the idea is again to not
+to copy them
+but to get some inspiration and you know
+this benchmarking exercise
+lays the foundation for the changes that
+you're going to make
+and what you see on the right is
+basically a screenshot from alps
+you know you know helps give you this
+course like i said and the gaps with the
+top ranking page
+right out the blocks and it will give
+you you know here are the list of
+uh some of the um more important
+variables right in
+in in the order of importance of sorts
+going to authority right authority again
+look at not just you know sometimes you
+know the
+at the very basic level you may want to
+look at things like
+page rating or url rating depending on
+the tool that you're using
+um sometimes those could be misleading
+because not every link is important
+right it's relevant links that matter
+relevant
+a relevant link is the one that kind of
+is given
+from a context right look at the context
+in which
+the link is is given right now that's
+what will tell you
+whether the uh link is relevant or not
+look at the
+type of domains that are kind of giving
+you those links right you know and then
+on the on the right you will see um you
+know some of the
+important variables when you are kind of
+trying to kind of uh
+get to uh identify things to improve on
+from a
+authority perspective uh getting to
+technical again
+you know i would say a few things to
+look at i think you know
+with core web vitals are becoming
+important so you definitely want to look
+at page speed
+then uh you look at uh you know google
+looks at
+something called whether the page is uh
+well maintained or not and whether the
+site is well maintained or not again
+there's a lot of variables that go into
+it but
+broadly you could get a sense right if
+there is basically
+if you're consistently having a lot of
+you know
+issues in your technical audit like you
+know you're missing out on
+you know certain tags and stuff like
+that
+that could pass a signal it doesn't mean
+you have to definitely fix them but you
+know that could
+pass a signal um sometimes technically
+it's it's like unlike other things right
+technically it's more like
+google is looking at um the experience
+of the page
+and saying hey is there anything on this
+page
+that may provide a bad experience to my
+uh to my user
+and you know if it is not then
+you know beyond that it's not going to
+kind of incrementally add value
+to your page like for example on the
+scale of 1 to 10
+right if you if you if you scored your
+page let's say a six or a six and a half
+getting to a seven and a half may not
+necessarily add incremental value
+because all you're looking at is
+just remove any roadblocks that kind of
+give a bad experience beyond that
+the whether you have relevant content
+whether you are addressing the query in
+the right form and whether your
+domain has the authority in that topic
+or not those are the ones that really
+matter
+the most right so um so once you kind of
+you know identified the changes that you
+want to make based on these
+uh you know variables etc then we talked
+about rescoring
+right you know here's an example of what
+that rescoring looks like it looks like
+for
+um assuming you made the changes uh you
+know in this particular case
+you know after we rescored this is where
+you know
+the uh we moved the page to looking at
+this
+uh i'm comfortable right you know i
+think okay i'm convinced that you know
+this may rank you know of course
+using alps will give you um i think a
+more accurate kind of estimation of the
+target rank and uh you know
+uh the likely business impact that it
+could have but you could get a sense of
+whether you stand a chance to rank uh
+where you and at the desired rank that
+you want to be
+and then you know this is where i think
+you want to estimate the impact of this
+if you are going to be in the
+you know uh page you know there are a
+lot of click-through rates curve
+curves available use any of them
+estimate the incremental traffic that
+you will get
+that will help you in making a business
+case right
+so those are some uh
+important things right and then so to
+summarize
+for the first use case we learned not to
+focus on anything
+but really on important pages and
+parameters we learned
+how to kind of benchmark and get some
+inspiration from competition
+and we learned um you know that
+rescoring
+and you know and and and kind of
+forecasting the impact
+gives us the the kind of uh
+you know ammunition to to use to ensure
+basically we have a highest likelihood
+to rank and kind of
+you know if it gets stuck in the
+implementation process we have some
+data to really push it right so with
+that
+um i think we'll come to the next uh use
+case but before that
+i think uh we have um it's time for our
+first poll heather
+so launching that now aj while people
+are answering that
+and we'll give everyone about 45 seconds
+to answer
+answer that we've had a few questions um
+of
+of participants asking what was the tool
+for scoring pages so if you can
+reiterate that i think that would help
+great so the tool is alps a lps
+right it's uh stands for analytics led
+platform for search
+uh alps is um you know um you know
+a platform that is primarily the core
+purpose of alps is to you know identify
+very specific reasons for a page to rank
+or not rank
+then simulate changes and rescore them
+right so um again we built alps
+uh you know about six years ago but
+we've used it
+predominantly in kind of you know on the
+agency side of our business
+but it's worked so well for us that we
+felt that it
+it's time to actually give the product
+uh you know as a licensed software to
+every seo out there and uh from last
+year we've been kind of licensing the
+product so it's alps
+alps great thanks for that
+yeah so um poll winner it looks like 70
+are strongly believe that they want to
+implement something like this
+so without that continue on perfect
+cool so we'll jump into our uh second
+use case
+right this is about you know planning
+and you know identifying the potential
+of seo and things like that
+so again various use cases some people
+some companies almost do this on a
+quarterly basis
+right some companies some teams do this
+at the beginning of the year to kind of
+create a roadmap of activities for the
+year some
+some companies use it for figuring
+out where to invest in seo some
+companies use it
+to make a business case right whether
+seo is some
+is going to be a big um you know
+aspect in their overall marketing um you
+know initiatives or not so
+uh let's just get into how to
+do this right right so the the
+um first step in any planning exercise
+seo planning exercise is a
+comprehensive keyword research i cannot
+emphasize enough
+on this right because keywords
+are really at the core keywords you know
+while you know
+people say hey you know keywords are no
+longer important
+it's it's more than keywords it's users
+typing what their users needs being kind
+of
+you know written into that search box
+and there's no better insight
+to get from the market than
+understanding that yes
+specific exact keywords may not be
+that's important
+but it is really the the the
+uh the meaning behind those keywords
+that that the intent behind that right
+when you accumulate that
+that is basically going to give you a
+lot of market insight so the
+the more comprehensive your research
+the more likelihood of you getting uh
+you know higher value from your seo
+program
+a lot of people you know because a
+comprehensive keyword research
+involves a large volume of keywords a
+lot of people kind of you know and it's
+tedious to do it
+they they don't necessarily kind of do
+this process well
+what ends up happening is you focus on a
+very small
+um aspect of of what is relevant to your
+um you know customers and then you kind
+of miss
+miss the entire funnel sometimes you
+miss the adjacencies etc right
+so um comprehensive keyword research and
+we'll talk about you know how to kind of
+do this
+very quickly right uh how to get to a
+large volume of keywords really quickly
+then the second step is to organize
+these keywords especially when you have
+tens of thousands of words to look at
+it's very difficult to make
+any meaning out of that right so
+grouping these
+into meaningful buckets meaningful
+groups
+gives you a way to for your brain to
+comprehend what's there
+right so when you look at 50 000
+keywords you can't really make anything
+but if you were to kind of group this
+into a nice kind of a hierarchy of 400
+500 categories except
+you you can kind of just look at it and
+kind of you know a picture of
+picture that in your mind and kind of
+that that may give you a lot of ideas
+right you know it will give you a good
+sense of
+the uh where the market is and then you
+know you'll make the right decisions
+from there
+and we'll we'll talk about a few ways to
+kind of do that shortly
+then once you've identified these themes
+the next step is to really
+take each theme and size the opportunity
+right again very easy we'll talk about
+how to do that you know you look at the
+search volume you kind of you know pick
+any ctr curve and kind of get an
+estimate of that
+once you have an estimate of the
+incremental opportunities that you
+each from my team get the difficulty
+right so one way to do an ideal way to
+do this would be to repeat the exercise
+that we did in use case one
+which is scoring um you know but
+i understand if you're doing this
+manually it could become
+very tedious some people use the
+competition that they get from
+paid search as a proxy i have a problem
+in with that approach but if you don't
+have a better way
+go ahead and use that because the
+competition
+index that you get from paid search is
+indicative
+of basically how competitive the keyword
+is in paid search ads right you know
+sometimes it's a proxy of how
+competitive it could be in seo
+it may be maybe there's a high
+correlation but
+there is what we've seen is that
+competitive index is not correlated
+with your difficulty to rank just
+because a page
+is competitive right a topic is
+competitive doesn't mean
+that you need a lot of work to do to
+rank high maybe you already did a lot of
+work and you're there you know very
+little
+incremental work that you need to do to
+kind of get to the top
+right on the other hand there may be
+this topic which is very
+high you know top of the funnel kind of
+topic and you probably don't have you
+know it's probably an adjacent category
+for you and you don't have any content
+there
+but it's very unlikely for you to rank
+so it's very difficult for you to rank
+there
+right so going with the competition uh
+that you get in paid search sometimes
+could be misleading but if you don't
+have
+you know uh anything else you use that
+best way to
+be it should be to once you theme go by
+each theme
+score and then kind of you know identify
+the difficulty
+right and uh once you have that
+you very easy you know you could use a
+2x2 we'll talk about a little
+framework and how to kind of you know
+create like an actionable plan from this
+right you know prioritize themes that
+you know what the exercise that you've
+done so far gives you basically
+uh a set of themes where you need to
+write new content
+a set of themes where you need to
+optimize content or set up themes that
+you have to
+focus on authority etc so you will have
+like you know
+a tactical kind of you know plan of
+starts at the end of this exercise
+so let's jump into how to uh go about
+doing this right the
+like i said the keyword research the
+multiple ways to kind of get this data
+a simplest form is basically pick any
+tool
+you know today most tools give footprint
+data you
+put in a domain they'll give you
+footprint data
+so get foot that footprint data for your
+domain and a few of your competitors
+domains
+right the other source could be your
+paid search if you already have
+you know um a lot of keywords in in your
+paid search you know bring that
+then search console could be another way
+or take a few
+you know topics within your business
+take a few features do a little bit of
+research around that
+bring those keywords and so there are
+multiple ways in which you can actually
+bring
+all these keywords now create a unique
+list of keywords from there
+and then you know you know we'll get
+into the theming
+process right you know i'll show that in
+a bit so here's an example
+um you know for an you know investment
+product
+that we've done right we started with a
+massive
+set of you know uh 250 300 000 keywords
+and we eventually ended up with close to
+70 000 keywords
+right that's the i am showing this
+example
+to let you know that that those are the
+kind of volumes that you
+should be looking at right keyword
+research with 300 keywords 500 keywords
+is not representative of
+all that seo can drive right you want to
+know
+how how much value that's there you know
+that your program can drive only then
+can you achieve it
+the first step is knowing that right so
+start with that massive
+it could take a few days of effort but
+this few days of effort will
+give you a lot of returns in the in
+later on and it creates a roadmap for
+like you know much longer
+right now sometimes you know you you
+have this plan can kind of you know
+become the only plan that you have for
+like a couple of years
+so um next one so those seventy thousand
+keywords
+you know we've kind of categorized it
+like this right you know nicely bucketed
+into this
+so if i look at this right you know very
+quickly
+i can kind of sense what topics exist
+here right i
+pretty much get a sense of the business
+uh in
+in in a few minutes so it's important to
+categorize there's a few ways to this uh
+to do to do the teaming again a lot of
+people struggle
+uh with doing theming you know they
+do it in an unstructured way so the list
+is long and you know
+difficult becomes difficult to
+understand even after your theme
+structuring is important so
+there are a few ways to do it few
+dimensions right so when you look at
+keywords identify dimensions like this
+like
+for example type of product could be
+another one dimension
+features could be one dimension right uh
+then you know uh marketing funnel can be
+one dimension right whether these are
+like you know comparison keywords or buy
+related keywords things like that
+then then depending on your industry
+like for example if it's an e-commerce
+site attributes of the product like
+um you know size color they become
+important
+and if it is um you know if
+you are in uh less hospitality or travel
+related businesses healthcare kind of
+businesses location becomes important
+like for example
+hospitals in new york things like that
+so the
+once you've identified these dimensions
+in your keyword and
+organize it with the most important
+dimension at the top like for example if
+you're a healthcare company you want to
+start with location as your first
+right and then followed by the
+the the the type of ailment and
+you know so so each dimension at a
+different level
+so you know if you if you are let's say
+for example a bank the type of product
+probably would come at the top then
+features would come next then your
+marketing funnel would come third and
+things like that
+so or you know once you organize your
+keywords like this you would probably
+end up with an
+excel sheet think of if you're putting
+them in an excel sheet
+maybe 300 400 500 rows of
+groups of themes that you know
+think of each theme as a topic right
+and so you pretty much have 500 topics
+that you need
+your business is made up of these 500
+600 topics and you just need to win in
+those 500 600
+that can translate to 500 600 pages
+sometimes each theme
+you know it can be one
+to few pages per theme of sorts
+you know if you were to generalize right
+on your site
+so uh you can very quickly translate
+these
+500 600 pages to basically how much of
+content you need on the site
+right then you organize them
+on an excel sheet like this and then you
+know here are the keywords against this
+theme this is a search volume
+this is where you currently rank right
+this is the traffic that you'd probably
+get
+you know at this rank there's hardly any
+traffic that you'd get but if you were
+to move to
+you know page one right this is the
+potential that you have
+right and then you know we talked about
+scoring the gaps etc so you kind of you
+know
+your score competitor score the gap so
+what you're doing is basically
+some quick analysis getting the
+potential of each theme and then some
+sense of difficulty if you don't have
+scores just use the competition
+index that you'd get and get some sense
+of difficulty
+or if you don't have difficulty just go
+with potential this will give you
+basically
+um you know the uh potential
+of each of these then you get
+you know you could you could kind of uh
+pull out data like this right this is
+this is your the current traffic that
+you know based on your current ranking
+and these keywords so you have those 60
+000 keywords based on your rank against
+the 60 000 keywords and
+you know pick any standard ctr curve and
+kind of you know
+estimate traffic right this is what
+you'll probably currently be getting
+and on the far right you have the if you
+were to rank for
+each one of these keywords at number one
+position it's very unlikely but if you
+were to kind of rank at number one
+position for all those branded and
+non-rendered keywords
+you'd get your maximum so this is this
+2.3 million in this particular example
+is what your seo can drive
+right if this is small based on you know
+then you you know based on
+what you know what your other channels
+are driving if you think this um
+you know if this 2.3 million translates
+to a certain amount of
+conversions and revenue and if that
+number is small
+most likely you did not do your keyword
+research properly so you would go back
+see if you missed out in any adjacent
+categories
+right um and and kind of do this
+exercise again
+and if this if this um you know
+opportunity looks
+massive for you then you kind of i think
+uh you know down the right path you at
+least have laid a foundation
+for um for the next few years right
+a realistic way to kind of get to
+opportunities to
+kind of make some and we will share this
+uh you know matrix uh
+you know after the webinar so
+we have created a metrics based on what
+we've seen with very
+lot of customers over the years
+depending on where you
+are and depending on the authority of
+your domain
+right so for example if your domain
+rating is
+70 and above then your likelihood of
+moving to you know top three results
+top five results is is relatively
+different right so based on that we've
+kind of arrived at some
+of uh some likelihood at different
+stages
+if you would apply that right know those
+likelihood you'd get to a more realistic
+kind of situation
+but you know again doesn't have to be
+right
+you take a guess like for example one
+way to do this is
+uh let's say you have you know 100
+keywords on
+or 20 themes on page two
+very unlikely that all of them you will
+get to top three ranks
+maybe two out of the 20 will get to top
+three
+maybe another three you will get to you
+know bottom of the top page
+right and the remaining will continue to
+be on page two
+right so that you know distribution will
+probably work better for you and you'll
+arrive at a realistic estimate
+at the end of that process um so this
+gives you
+uh you know a lot of ammunition to kind
+of you know go talk to your executives
+to make investments to kind of ask for
+resources
+and things like that or to even convince
+yourself whether what you're doing
+will actually you know is there any any
+any value that
+there is to the business right no for
+the work that you're doing
+the next of course you know the themes
+that we saw here
+right if you were to kind of you know
+put those themes
+based on difficulty to rank an
+opportunity size
+you would immediately get like a you
+know calendar plan of starts right you
+know the ones
+themes which have the lowest uh uh
+difficulty but high opportunity those
+are the ones that you want to
+immediately kind of address because
+those are the ones that will
+you know very easily win then the
+uh you know the long term goals are
+where
+the opportunity is high but you know
+there's a high difficulty as well so
+that needs some work
+right you need to probably kind of build
+a lot of supporting content
+build you know build some do some link
+building programs things like that
+right and then you know these are some
+uh
+areas there where you could do some
+experiments to rank so
+that's kind of you could take an
+exercise like this and eventually end up
+with a
+very tactical plan right
+so just to summarize so with the second
+use case
+we try to kind of identify the
+value that seo can drive
+and then we created a tactical plan of
+which topics to go after which teams to
+go after
+in the short term and long term right uh
+with that
+we kind of come to our second poll
+heather great so do you know the
+addressable market size
+of your seo for your business
+i'll give everybody about 30 seconds to
+answer that
+great looks like we have a winner
+yeah we share a similar approach to
+arrive at the opportunity by
+55 percent great
+perfect that heather great
+so we've got a few minutes left
+we'll take some questions
+so thank you all for participating we've
+got you know a lot of questions
+we're not going to be able to get to all
+of them today but like we said we will
+definitely follow up
+and send them your way afterwards so
+let's get to the first one what are your
+thoughts on how to approach
+benchmarking scoring of groups of pages
+versus individual ones in the case of
+large websites when dealing with one
+page at a time
+and it's not efficient
+i would say the challenges with each
+page are different
+right i i understand you know doing this
+at uh
+you know individually doing it at every
+keyword level is difficult
+right and it doesn't make sense because
+you know a page
+each page can have multiple keywords
+targeted against it
+but the challenge with uh you know
+doing at groups is maybe you focused on
+one aspect of a group of pages let's say
+for example
+you have a topic like you know travel
+credit cards
+right and and then you have 10 pages
+against that maybe your focus was
+heavily on
+selling the product and maybe you did
+some you know comparative kind of
+content there but you probably left out
+a lot
+of you know awareness content and
+consideration content
+when you kind of look at group of pages
+you'll miss out on that aspect
+right you know what will happen in this
+particular case is when you look at
+individual pieces
+your pages would actually your your uh
+you know gaps would be lower in the
+lower funnel pages but your gaps would
+be higher in the higher funnel pages
+and you'll miss that out when you group
+them all so i
+understand that it could be a little
+time consuming but it's probably worth
+the effort
+and that's where i think some tools can
+kind of help you automate that process
+great so how often should we be doing a
+comprehensive keyword research
+i would say it's
+definitely not more than once or twice a
+year i would say
+you know you know start with you know at
+the beginning of the year or whenever
+right now if you start now you probably
+don't need to get back to it
+you know in a few quarters at least
+typically
+every time you do a keyword research
+exercise you end up with a tactical plan
+like we talked about right you know you
+have you have a few topics that you need
+to work on whether writing content or
+optimizing
+and you know it doesn't make sense to go
+back
+to um to planning before you've executed
+on your previous plan
+so once you got to a certain stage you
+could kind of you know i'll give an
+analogy of
+you know product management the way we
+do it in product management
+is we constantly talking to users
+right so there are new ideas coming all
+the way all the time
+so every time we get an idea we put it
+into a road map right you know
+think of it as an excel sheet and we are
+dumping these ideas into that roadmap we
+don't look at them we just keep dumping
+them
+and every once every quarter right you
+know all the product
+managers we come together and then we
+kind of look at those things and
+prioritize those ideas
+and pick a few so you could you could do
+something similar every time you hear
+you know some additional new topics that
+are coming put them in
+in a roadmap and you know prioritize
+once every six months
+on which ones makes more sense for you
+yeah i think that makes sense i mean
+everything you've outlined and you know
+trying to find that focus right i mean
+if that was something that they had to
+do more often
+it would consume all of their time so i
+think that's a great approach
+so is there a way that you can automate
+the organization of keywords into
+into themes or is that always a manual
+process
+uh you can use alps to do that uh but
+yeah there are a few other tools who
+are trying to do that but alps
+definitely does that in an automatic
+fashion
+uh you could if you're trying to do it
+yourself
+there are a few ways like i said
+identifying
+dimensions is important right you know
+um the way to do that maybe is
+you know extract a few words right you
+know the most commonly occurring words
+then you know divide those words into
+these dimensions maybe some of those
+words
+are um or on product features some of
+those words are
+around intent like comparison by
+etcetera some of those words are
+locations
+so you identifying these dimensions and
+kind of you know
+put words in in an excel sheet then you
+have
+you know think of it as columns right
+you know each column is one dimension
+and you put an yes or no against each
+keyword whether that
+so and you know if you if you have
+identified 100 such words you can do a
+vlookup in
+in excel and kind of you know fill this
+you know uh
+you know sheet very very quickly right
+and you could use
+some automation like that but um the
+other way is
+just you know based on uh take the first
+dimension features
+think of all the features you could
+think of right you know search for those
+keywords group them in the first bucket
+then go to the next category then that's
+another way of doing it but uh
+there are tools like you know like also
+could do this much more efficiently
+great so let's talk about local seo for
+a second so
+if if somebody is optimizing for local
+you know should they still be looking at
+a very high volume keywords exclusively
+uh local i think is is a is a little
+different um but you know again the
+analogy kind of works right you know um
+you know like for example is the same
+set of keywords people are searching the
+results are just local
+right for example if i'm looking at
+cancer hospitals
+right the results may be local
+but you know so cancer hospitals versus
+a specific type of cancer hospital which
+has a lower volume
+right you know again relevance is also
+important which business you are in but
+the volumes even at a local level are
+proportional
+so um it it probably still makes sense
+to look at
+volumes great
+so how often is the rescore how often
+should the rescore be done um
+any time we apply a change or should it
+be something that we're looking at like
+quarterly monthly you know what does
+that cadence look like
+the it's actually you'll be surprised
+with my answer
+are writers for example do this
+anywhere between 12 to 15 times before
+they finalize the content right
+so alps for example has a simulation
+engine where
+you know you can put your content in an
+editor and then they keep you know
+they make changes and then put it in the
+editor and rescore
+to ensure it reaching where it should
+they
+do this process it's almost like
+gamifying it right rescoring is a
+process of getting you know uh
+increasing the chances with every time
+you know every scoring you're making
+modifications and improving it
+so it's it's it's uh you know
+12 to 14 times that they use because of
+course they have a tool
+but in the absence of a tool you want to
+do it at least once to be sure that you
+know the changes that you've done
+uh you are convinced that you know it is
+it is going to make an impact
+yeah that makes sense so what about
+thoughts on a parent page or a top of
+the
+funnel page with thorough coverage
+should an
+it services company take a parent wrap
+a parent page route or like individual
+blogs would those be better
+i i think there's no one answer to it
+right you know it's like you know if you
+think of you know i
+i'd say there are various ways to answer
+this question let me take
+one such example right you know think of
+an iceberg concept right
+um you know what you may be ranking for
+maybe one you know broad
+query let's say for example if you if
+you're trying to sell a crm product
+right you may you may be thinking okay
+you know
+you want to rank for any time someone
+types
+crm tools you want to rank for that
+but to be able to rank for see a broad
+query like crm tools
+there is basically a lot of authority
+that you have to build
+around that topic called crm right and
+the way
+and the way for a search engine to know
+whether you have an authority in a
+particular topic or not
+is to look at all the subtopics in that
+area right and
+you know the search engines know how to
+get that they use these networks right
+network of keywords network of pages
+and they know how to group those
+networks together cluster them together
+so if crm is a node in that you know in
+a
+network right there are a lot of sub
+nodes under that
+which is basically all the subtopics in
+crm
+you're an authority in crm only when
+you have a lot of the least that you
+want is
+have coverage and content across all
+these subtopics
+that's a signal that you're sending to
+the search engine that hey
+my business is about this particular
+topic i don't have a single page on this
+right that's how the search engines know
+like for example american express can
+have
+one page on soccer doesn't even though
+you know amex is
+you know domain rating is very high it's
+very unlikely that it'll rank for that
+page right because
+it doesn't have the supporting content
+so i would say
+you you'd want to kind of really build a
+lot of different types of content around
+the topic
+uh now coming to one services page
+versus multiple blog pages
+the product type of google in its kind
+of you know um
+you know qa guidelines kind of suggests
+that people
+in their search for products move
+across different stages of the funnel
+time and again right
+so they today search engines are
+promoting pages especially product
+pages where multiple types of
+uh information is covered in the same
+page right if you are
+like which is why the all the
+aggregators are using
+you know those kind of pages so they
+they on the same page they talk about
+product features they compare it with
+the competition they have faq use
+so that one page may really you know
+kind of address a lot of questions
+but to build authority for that one page
+you still need a lot of supporting
+content i hope that's a long answer but
+i hope you know what addresses your
+which is a good answer so with about
+three minutes left i'm going to try
+let's try to get this last question
+although this might be another long one
+but
+you know jay how would you go about
+optimizing the website keeping in mind
+you know the algorithm the core update
+that's coming
+you know this may
+i would say the
+the core update should you know is like
+i said you know
+let's get into the a little bit of
+bottom of this right you know i said
+there are three broad components you
+know do you do you have content
+that's relevant to the queries then do
+you have authority in that specific con
+you know specific topic that the user is
+searching for and the third one is
+is there anything that is blocking
+you know blocking the experience of the
+user right is there anything on your
+page
+or your website that gives a bad
+experience to the user
+right and page speed is
+one such thing if it's taking forever to
+load your page if it takes you know
+especially on a mobile
+device today people are very impatient
+if your page takes
+you know um 10 seconds to load you know
+they move on
+right so that's what the search engines
+are looking for
+right if your page is basically taking
+a little bit of time longer than an
+average page
+then you need to worry about otherwise i
+don't think you know
+let's say your page is loading in one
+second by making it 0.8 seconds i don't
+think it's going to improve your ranking
+significantly
+it will of course improve if your page
+is taking eight seconds today to load
+and you brought it down to two seconds
+then you are even in the consideration
+set right that's when
+you're saying hey you know is it really
+worthwhile showing this page
+but if it's already let's say
+in in a respectable range trying to kind
+of really focus a lot of attention on
+that
+may not give you a lot of results so
+that would be my take so i would say
+identify pages which needs significant
+improvements
+and bring them to a respectable stage
+rather than trying to really get
+every second improvement of such because
+beyond a certain stage
+it just gets difficult right you know to
+to
+improve page speeds because there's a
+lot of code change that you'll have to
+do
+right some things are simple compressing
+images things like that
+those are the simple simple stuff right
+you know you want to kind of you know
+global css versus locals
+those are some of the easy things quick
+fixes but beyond that it gets
+difficult great sorry a long answer
+again
+yeah no we figured it would be no
+worries so we are at time
+so you know with that aj i'm going to
+say
+many thanks from search engine journal
+for being our guest
+here today and we've reached the end of
+our time so it was a great conversation
+i'm sorry that we couldn't get to
+everyone's questions but the content was
+fantastic
+thank you for sharing so expect a
+follow-up email with all the questions
+along with answers from today's show
+and please stick around again for that
+short survey it'll take no more than
+five minutes and it does help us improve
+webinars overall
+with that we bid you adieu have a great
+day thanks
+thank you everyone thank you heather and
+search engine
+you

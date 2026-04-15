@@ -1,0 +1,231 @@
+Notebook LM plus Gemini AI SEO is
+insane. Today I'm going to show you how
+Notebook LM and Gemini just changed SEO
+forever. This is brand new. Google just
+powered Notebook LM with Gemini 3, and
+it's absolutely crazy. You can now turn
+research into SEO content in minutes
+instead of hours. I'll show you the
+exact workflow we're using right now.
+All right,, let's, talk, about, what, just
+happened with Notebook LM and Gemini
+because this is actually insane. Google
+upgraded Notebook LM to run on Gemini 3.
+That's their most advanced AI model
+right now. And it's not just for taking
+notes anymore. It can analyze research
+build data tables, create slide decks
+and turn everything into SEO ready
+content. The reasoning is better. The
+context is better. Everything is better.
+But here's where it gets wild. Notebook
+LM and Gemini now work together. You can
+attach your Notebook LM notebooks
+directly into Gemini as context. That
+means all your research becomes live
+knowledge that Gemini can actually use.
+No more copying and pasting between
+apps. No more losing context. It's all
+connected now. So, so let me show you
+exactly how to use this for SEO. I'm
+going to walk through the whole workflow
+from research to published content. And
+I'll give you the exact prompts we use
+at Goldie Agency to create content that
+actually ranks. Hey, if we haven't met
+already, I'm the digital avatar of
+Julian Goldie, CEO of SEO agency Goldie
+Agency. Whilst he's helping clients get
+more leads and customers, I'm here to
+help you get the latest AI updates.
+Julian Goldie reads every comment, so
+make sure you comment below. Step one is
+collecting your research. You can
+actually ask AI to find these sources
+for you first. Just use this prompt.
+Find the top articles, case studies, and
+competitor pages about AI automation
+communities and business growth. This
+saves you hours of manual research. You
+get a clean list of sources to import
+into Notebook LM without digging through
+search results yourself. Once you have
+your sources, you upload them all into
+Notebook LM. Notebook LM reads
+everything and starts building structure
+from it. The more sources you give it
+the better it understands the topic. And
+it doesn't just read, it connects the
+dots between all your sources and finds
+patterns you might miss. Now, here's
+where it gets good. You ask Notebook LM
+to generate outputs using specific
+prompts. The first prompt I use is this.
+Analyze all uploaded sources and create
+a detailed SEO keyword research table
+for AI automation communities. Include
+columns for primary keywords, related
+keywords, estimated search intent
+keyword difficulty, and content gaps
+compared to top ranking pages. Format
+this as a clean data table. Notebook LM
+will build you a table that shows
+exactly what keywords matter. It pulls
+data from your sources and organizes it
+so you can see what to target. You're
+not guessing what to write about
+anymore. you have real data telling you
+what people search for and what's
+missing from current content. The second
+prompt I use all the time is this one.
+Based on the uploaded research, create a
+comprehensive content outline for a blog
+post titled How AI Automation Helps
+Businesses Scale Faster. Include an
+engaging H1, at least six H2 subheadings
+with bullet points under each, key
+statistics to include, and suggested
+internal linking opportunities for the
+AI profit boardroom website. Make sure
+the outline addresses beginner to
+advanced users. This gives you the
+complete skeleton before you write a
+single word. You know your structure.
+You know what stats to include. You know
+where to link. Everything is planned out
+based on what actually works in your
+research sources. And one more thing, if
+you're creating all this content with
+Notebook LM, but nobody is finding it
+online, you've got a traffic problem.
+That's where SEO comes in. If you want
+more leads, more traffic, and more
+sales, my team can help you rank higher
+on Google. Check the link in the
+comments and description uh to order AI
+SEO online and let us handle your back
+links while you focus on growing your
+business. And if you want to rank number
+one and get more customers, join the SEO
+elite circle. That's where we actually
+teach you how this works. No theory, no
+recycled tips, just the exact AI SEO
+systems we're using right now. We break
+everything down step by step with real
+workflows, weekly live support, and
+clear actions you can follow without
+guessing. If you're serious about
+scaling with SEO and AI, this is where
+you start. Hit the link in the
+description and join the SEO Elite
+Circle today. Now, step two, you take
+those notebook LM outputs and attach the
+notebook directly into Gemini. This is
+where the magic happens because now
+Gemini has all that research as context.
+It understands your topic. It knows what
+you're trying to rank for, and it can
+create way better content because of it.
+You're not starting from zero. Gemini
+already knows everything Notebook LM
+learned from your research. That means
+better writing, better structure, better
+SEO. Here's the exact Gemini prompt I
+use for blog posts. Using the attached
+Notebook LM research and content
+outline, write a fully optimized
+1500word SEO blog post titled, "How AI
+automation helps businesses scale faster
+for the AI profit boardroom blog.
+Include an engaging introduction that
+hooks readers immediately. Use the
+suggested H2 headings from the outline.
+Naturally incorporate primary and
+related keywords throughout. Add a
+compelling meta description under 160
+characters. suggest three internal links
+to related AI profit boardroom content
+and end with a strong call to action
+encouraging readers to join our
+community for all. Use a conversational
+tone that's easy to understand. Gemini
+will write the entire post. It includes
+your keywords naturally without
+stuffing. It structures everything with
+proper headers and it gives you the meta
+description ready to paste. The second
+Gemini prompt I use is for landing
+pages. Take the notebook LM research on
+AI automation benefits and create high
+converting landing page copy for the AI
+profit boardroom. Write a powerful
+headline that captures attention. Three
+benefit focus subheadings explaining
+what members get. A feature section
+highlighting our AI tools and training.
+Social proof placeholder sections. A FAQ
+section answering five common objections
+and two CTA buttons with compelling copy
+that drive signups. Focus on showing
+real value and making it clear why
+someone should join today. You can use
+this exact workflow for landing pages
+blog posts, email sequences, video
+scripts, anything. Same research
+different outputs. And here's the best
+part. You can keep iterating without
+starting over. Let's say the first
+version is too formal. Just tell Gemini
+to rewrite it in a more casual tone. Or
+maybe you want it shorter. Tell it to
+cut the word count by half. Want it in a
+different language? Ask for that. Want
+to turn the landing page into an email
+sequence? Just say, "Write this as a
+five email welcome sequence for new AI
+profit boardroom subscribers. The
+research stays the same. The context
+stays the same, but you can create 10
+different pieces of content from one
+notebook. That's how you scale without
+burning out. So try this. Pick one topic
+you want to rank for. Upload five
+competitor articles into Notebook LM.
+Ask it to create a research summary.
+Then attach that notebook into Gemini
+and ask it to write an SEO optimized
+post. Publish it, track it, see what
+happens. I bet you'll rank faster than
+you expect. And one more thing, if
+you're creating all this content with
+Notebook LM, but nobody is finding it
+online, you got a traffic problem.
+That's where SEO comes in. If you want
+more leads, more traffic, and more
+sales, my team can help you rank higher
+on Google. Check the link in the
+comments and description to order AI SEO
+online and let us handle your back links
+while you focus on growing your
+business. And if you want to rank number
+one and get more customers, join the SEO
+Elite Circle. That's where we actually
+teach you how this works. No theory, no
+recycle tips, just the exact AI SEO
+systems we're using right now. We break
+everything down step by step with real
+workflows, weekly live support, and
+clear actions you can follow without
+guessing. If you're serious about
+scaling with SEO and AI, this is where
+you start. Hit the link in the
+description and join the SEO Elite
+Circle today. All right, that's it.
+Comment below and let me know what you
+think about Notebook LM and Gemini. Are
+you using it yet? What are you creating
+with it? Drop your results. Julian reads
+every comment. And if you got value from
+this, hit the like button and subscribe
+for more AI updates. I'll see you in the
+next

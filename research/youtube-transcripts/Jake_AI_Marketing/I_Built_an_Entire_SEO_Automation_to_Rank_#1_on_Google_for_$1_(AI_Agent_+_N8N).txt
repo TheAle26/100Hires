@@ -1,0 +1,707 @@
+Most people are paying $2,000 to 5,000
+per month to SEO agencies to rank on
+Google. And honestly, I get it. SEO
+feels impossible. You're told you need
+to write dozens of blog posts, do
+keyword research for hours, build
+internal links, create pillar content.
+It's overwhelming. But here's what those
+expensive agencies don't want you to
+know. I just built an entire SEO system
+that does all of this automatically for
+less than a dollar per week. While
+everyone else is manually writing blog
+post and hoping Google notices them, I'm
+using AI agents and NAN workflows to
+post two perfectly optimized SEO blogs
+every single week without me lifting a
+finger. The system finds trending
+keywords, writes the content, adds
+internal and external links, creates
+images, and publishes everything to
+WordPress completely automated. And the
+crazy part, this isn't some theoretical
+concept. I'm literally using this exact
+system right now to rank for competitive
+keywords in the AI space. And I'm about
+to show you the entire workflow, every
+node, every prompt, every automation, so
+you can copy it and start ranking for
+your own keywords. Because here's the
+thing. While your competitors are still
+paying thousands to agencies or spending
+20 hours a week writing blogs manually
+you're going to have a system that works
+247 in the background, consistently
+pushing your website higher in Google's
+rankings. So, if you ever wanted to
+dominate SEO without the massive time
+investment or the expensive monthly
+bills, this is exactly what you need to
+see. I added the AI tools that we're
+going to use in the description so you
+can check them out. Let me show you how
+it works before we start building it
+step by step. We'll start by executing
+the workflow. After we execute the
+workflow, the whole process runs
+automatically from start to finish.
+Moving through five key stages.
+Planning, making HTML and inline links
+creating titles, slugs, and summaries.
+Image generation with Nano Banana and
+posting. It begins in Google Sheets.
+Flows through planning and content
+creation. Generates HTML. Adds optimized
+metadata. produces hyperrealistic images
+and ends with a finished blog published
+directly on WordPress. All right, the
+run kicks off with planning where four
+AI agents, preliminary plan, research
+final plan, and writing work together to
+structure and refine the content. The
+Google sheet nodes only pull in topics
+labeled as not completed, which ensures
+every new post is based on fresh ideas.
+Looking at the sheet, you'll see the
+imported columns, cluster, intent
+keywords, primary keyword, and completed
+status. All guiding how each blog is
+built. Next comes making HTML and inline
+links. At this stage, the workflow
+gathers completed rows from the sheet
+builds internal links into the
+structure, and generates HTML that's
+ready for direct publishing into
+WordPress. After that is creating
+titles, slugs and summaries where the
+system automatically generates each
+piece based on the content created
+earlier. These elements play a critical
+role in both SEO and readability giving
+every post a polished and search
+friendly presentation. The fourth stage
+is image generation with Nano Banana.
+Using the title and summary as input
+Nano Banana creates hyperrealistic
+images tailored to the post. Known as a
+powerful image generation tool, it
+ensures each article has professional
+visuals without requiring extra design
+work. Finally, the workflow moves into
+posting. The completed blog is published
+in WordPress and the Google sheet
+updates automatically to mark the post
+as completed. From the completed sheet
+you can click the generated URL to open
+the live blog right away. This workflow
+automates everything because doing all
+of that manually, research, writing
+formatting, illustrations, and
+publishing can take hours for just one
+post and often requires a full team.
+Here the workflow takes care of every
+post stay consistent, back research
+illustrated with realistic visuals and
+tracked in sheets, so progress is always
+clear. It reduces repetitive work
+speeds up publishing, and delivers a
+professional quality blogs with minimal
+effort. You've already seen how the full
+workflow is running from start to
+finish. So now let's break it down piece
+by piece. The first step will be making
+sure the workflow can start on command
+or on a schedule and that it's always
+pulling in fresh topics from Google
+Sheets. This is where the triggers and
+the first sheet connection come into
+play. We will start with two triggers, a
+manual trigger and a schedule trigger.
+The manual trigger will let us run the
+workflow in a time on demand, which is
+perfect for testing or urgent
+publishing. The schedule trigger will
+handle everything automatically at set
+intervals, generating and publishing new
+posts to WordPress without us needing to
+step in. For this demo, we'll leave the
+schedule at its default, but you can
+adjust it to fit different use cases.
+Having both triggers will give us
+flexibility. We can run the workflow
+manually when we want a quick control or
+rely on a schedule to keep content
+flowing consistently. Once that's set
+the next step will be connecting the
+system to Google Sheets so it always
+works with fresh topics. To do this
+we'll add a Google Sheets get row and
+sheet node. We'll set resource to sheet
+within document and operation to get
+rows. Then we'll select the document
+from the list. Choose the target sheet
+and add a filter so the workflow only
+looks at rows where the completed column
+is set to no. That way we're only
+pulling in topics that haven't been
+published yet. There's one more option
+we'll turn off. Return only the first
+matching row instead of pulling every
+row marked no. This makes the node
+return just the first available one.
+Let's execute the step here. The node
+pulls the seventh row from the sheet
+which is the first row with a completed
+column is set to no. This flow ensures
+the workflow always starts with a valid
+trigger and fresh content keeping the
+process clean and consistent. Now it's
+time to turn raw topics into something
+usable. This preliminary plan agent will
+spin those ideas into a rough outline we
+can actually build on. Instead of
+starting from scratch, this step is
+giving a structure, direction, and a
+draft we can refine later. In order to
+set it up, we're going to add an AI
+agent node into the workflow or the
+configuration. We'll choose source for
+prompt as defined below. Then we'll
+paste in the prepared script for the
+user message and the system message.
+Once that's ready, we'll rename the node
+to keep it clear so it's obvious what
+the stage is doing. Next, we'll add a
+chat model and select GPD5 for
+reasoning. In order to push the outputs
+even further, we'll also attach a think
+tool, giving the agent more depth and
+accuracy in its responses. After
+executing the step, the agent will
+generate a preliminary plan, a rough but
+usable draft that guides the blog
+writing and posting process. The
+preliminary plan agent makes sure the
+content creation process begins with a
+clean framework without locking into
+final details too early. It captures
+broad ideas, possible angles, and a
+rough flow, giving the workflow material
+to build on. Now, think of it as
+sketching the blueprint. It speeds up
+the creative process, reduces blank page
+hesitation, and sets up the final plan
+agent to refine and polish the draft
+into a well ststructured, readytouse
+plan. However, a plan without research
+is just guesswork. So, the next step is
+giving your outline some real banking.
+The research agent is handling that
+pulling in references, evidence, and
+credible sources that make the content
+trustworthy. We don't want to just leave
+the draft floating on ideas alone. This
+stage is grounding it in facts and data.
+We can actually site later. Setting up
+is straightforward. We are going to add
+an AI agent. Now, let's start
+configuring it. I'm going to set the
+source for prompt as defined below. The
+prepared script will go into both the
+user message and the system message.
+Here you can see the prompts clearly and
+these are the instructions that will
+drive the agent. After that, the node
+gets renamed to research agent so its
+role in the workflow stays clear. For
+the model, we're choosing Perplexity
+Sonar Pro since it specializes in
+pulling information from valid sources.
+That way, the workflow isn't just
+generating files. It will gather
+citations, facts, and references the
+later agents can actually use. Running
+this step outputs a collection of
+relevant sources tied to the topic at
+hand. Now that we have this here, the
+workflow has a stronger knowledge base
+reducing the risk of misinformation and
+setting up the final plan and writing
+agents with richer material to refine
+into a finished post. The brainstorming
+and research give us raw material, but
+this is where everything starts taking
+shape. The final plan agent will be
+pulling the preliminary draft and
+research together into a structured
+outline that's ready for execution. It
+will organize the topic, search intent
+and keywords into a single plan that
+will guide the writing agent in the next
+stage. Setting it up means adding
+another AI agent node into the workflow
+and configuring it just like before.
+Source for prompt as defined below.
+We'll paste in again the prepared script
+for both the user message and the system
+message. Once that's done, we'll rename
+the node to final plan agent so its role
+is easy to identify. Here's where this
+step gets more specific. If any red
+lines appear from mapping mismatches
+we'll resolve them by linking the fields
+from the Google sheet. Now, mapping
+keywords from the sheets keywords field
+search intent from the intent field, and
+primary keyword from the primary keyword
+field. That way, the agent is working
+directly with the right data. For the
+model, we'll select GPD5 to handle
+reasoning, and we'll add a think tool to
+push its outputs further, making sure
+the outline is sharp and comprehensive.
+Let's execute this one. There it is. The
+output is no longer just a draft as it
+is now a clear, actionable plan. The
+final plan agent removes any ambiguity
+ensures SEO alignment, and produces a
+roadmap that makes the writing stage
+smooth and consistent. Let's turn plans
+into pros. We're going to take
+everything the workflow has prepared.
+The preliminary plan, the research
+agent, sources, and the final plan, and
+hand it to a writing agent that will
+generate the full article end to end. No
+more outlines here. We're going to
+produce a complete detailed draft that's
+ready for formatting and publishing.
+We'll add an AI agent node and set
+source for prompt to defined below. Then
+as usual, paste in the prepared script
+for both the user message and the system
+message. After that, we'll follow the
+same process. We're renaming the node
+writing agent so its role stays
+unmistakable inside the canvas of nodes.
+For the model, I'll select claw set form
+to handle the writing itself. clear
+structure, natural flow, and depth in
+long- form output. To strengthen
+reasoning and coherence, we're also
+going to attach a think tool. And in
+order to keep numbers, formulas, and
+quick checks reliable, we're adding a
+calculator tool as well. Let's put this
+in action. After executing this step
+the agent will pull from the final plan
+and weave in the research agent citation
+and the preliminary plan's direction
+which turns structured inputs into
+readable publication ready content. Keep
+in mind that if we skip this step, the
+workflow would stall planning. This
+agent handles the actual writing, taking
+care of the heavy lifting automatically.
+Every blog post becomes more powerful
+when it connects back to what's already
+been published. We don't want users to
+manually dig through old posts and add
+links one by one. So, we're letting the
+workflow pull them in automatically.
+This step is all about fetching
+completed blogs from Google Sheets and
+then combining them into a single data
+set that can be used for inline linking.
+We'll start by dropping in a Google
+Sheets get row in sheet node. In the
+configuration, we'll set resource to
+sheet within document and operation to
+get rows. From there, we'll select the
+right document and the target sheet.
+Running the step will fetch multiple
+rows representing completed blog posts
+giving us the raw material for linking.
+Next, we'll add an aggregate node. For
+the configuration, we'll set aggregate
+to all item data into a single list.
+Choose data for put input in field and
+include all fields. Now if we execute
+this step, this will pull all the
+completed blog rows together and merge
+them into one clean block of structured
+data. Now the workflow has a single data
+set holding all past post ready to be
+referenced in the new article. Inline
+linking will happen seamlessly, boosting
+SEO, keeping readers on the site longer
+and making each blog feel more connected
+without adding any extra manual effort.
+Like what I mentioned earlier, manually
+adding links into every blog post is
+tedious and easy to get wrong. Miss one
+and you lose a chance to boost SEO or
+keep readers on the site longer. So
+after aggregating past posts into a
+single data set, the next step is to put
+that data to work. The inline links
+agent taps into it and automatically
+weaves relevant references into the
+draft. We'll add an AI agent node into
+the workflow and set source for prompt
+to define below. Like before, we'll
+paste in the prepared script for both
+the user message and the system message.
+Once that's ready, we'll rename the node
+to inline links agent so its role is
+obvious inside the workflow. Here we'll
+select GPD5 again for the model to
+handle reasoning. And we'll attach a
+thing tool to strengthen the outputs
+with more depth. Executing the step lets
+the agent scan the aggregated data set
+and generate inline references that slot
+seamlessly into the new blog post.
+Inline links aren't just nice extras
+they're essential. They tell search
+engines how your posts relate to each
+other and help readers stick around to
+explore more. The draft now comes
+preloaded with links placed exactly
+where they make sense, stretching
+connections between posts, guiding
+readers naturally and making every
+article richer and more professional
+without any manual effort. Now, every
+blog post needs more than just text. It
+also needs clean HTML that's ready to
+publish. Rather than formatting
+everything by hand, we're going to let
+the workflow generate the code directly
+so the article can move straight into
+WordPress without delays. In order to
+handle this, we're going to use an open
+AI message a model node which is faster
+and more reliable for large structured
+outputs like HTML. We'll add the node
+into the workflow and set resource to
+text and operation to message your
+model. For the model, we'll select GBD5
+chat latest. Then we'll paste in the
+prepared script for both the user and
+system prompts and toggle on simplify
+output to keep the results clean. Here
+you can see the prompts that serve as
+the instructions to guide the output.
+After executing the step, we got here a
+block of clean HTML code ready to use
+and already structured for publishing.
+This saves us from manual formatting
+reduces the risk of errors, and keeps
+the workflow moving smoothly at scale.
+Before moving any further, it's a good
+idea to get everything organized. The
+workflow is already generating plans
+research, HTML, and a whole draft. But
+if we don't structure those outputs
+things can get messy fast. That's what
+the set field node is for. It acts like
+a checkpoint, pulling together all the
+important values and giving them clean
+labels so the rest of the workflow can
+reference them without confusion. We'll
+add a set field node into the workflow
+and switch the mode to manual mapping.
+From here, we'll map each field to its
+source. Cluster from the sheet nodes
+cluster field. Intent from the intent
+field. Keyword from the keyword field.
+HTML from the message a model nodes
+content. Final output from the writing
+agent. Final plan from the final plan
+agent. Research output from the research
+agent and preliminary plan from the
+preliminary plan agent. After executing
+the step, the workflow now has a clean
+standardized data set. Every key piece
+of information, plans, research
+keywords, and generated content is
+neatly organized and ready to be used by
+the next nodes. This makes the workflow
+more reliable, reduces mapping errors
+and keeps it easy to manage even as it
+scales. Even with a full draft
+research, and HTML in place, the blog
+isn't ready to publish just yet. What's
+missing are the final touches that make
+it professional and SEO ready. a
+compelling title, a clean URL slug, and
+a concise summary. The slug plus title
+plus summary agent will handle all of
+that automatically. Making sure every
+post has the metadata it needs before
+going live on WordPress. To set this up
+we'll add an AI agent node. It's the
+workflow and configure it with source
+for prompt defined below. We'll paste in
+the prepared script for both the user
+message and the system message. Then
+toggle on require specific output format
+so the results stay structured. For the
+model, we'll select GPD5 again for
+reasoning. Also to sharpen the results
+we'll attach a thing tool. And to make
+sure the metadata is formatted
+consistently, we'll add a structured
+output parser. Finally, we'll rename the
+node slug plus title plus summary agent
+so its purpose is clear. Let's execute
+the step. The output now includes a
+finished slug, title, and summary that
+slot neatly into the publishing
+pipeline. The title draws readers in.
+The slug creates clean SEOfriendly URLs
+and the summary boosts readability while
+powering previews and social shares.
+Automating this step keeps everything
+consistent, saves time, and prevents
+errors. This also guarantees that every
+post has the supporting fields WordPress
+needs. transforming raw AI content into
+something fully production ready. No
+blog feels complete without visuals.
+Images catch the eye, break up long
+sections of text, and make post feel
+more polished and professional. We don't
+need to search for stock photos or
+design graphics manually. We're going to
+let the workflow generate custom hyper
+realistic visuals using Nano Banana
+through Kie AI. Each image will be tied
+directly to the bug's title and summary
+so it's always on topic and relevant. To
+build this, we'll add an HTTP request
+note into the workflow. From there
+we'll go to the nano banana model page
+on KI AI and paste the example C URL
+request provided. Back in N8, that
+request will be imported directly into
+the HTTP request node. The next step is
+generating an API key from KIE AI's API
+key page and pasting it beside bearer in
+the authorization header. After the
+setup is ready, we'll replace the
+default JSON with map prompts to control
+the generation. The title and summary
+are both pulled from the slug plus title
+plus summary agent node, giving Nano
+Banana the exact context it needs to
+create relevant images. Executing the
+step shows the workflow producing a
+hyperrealistic image automatically
+through the HTTP request. At this point
+the block isn't just written and
+structured. It now comes with unique
+tailored visuals that elevate engagement
+and make every post look professional
+from the start. But image generation
+doesn't always happen instantly.
+Depending on the complexity of the
+request, Nano Banana may take a little
+time to process to prevent the workflow
+from moving too fast and trying to use
+an image before it's ready. We're
+dropping in a weight node as a simple
+buffer. Adding the node is
+straightforward. We'll configure it with
+a weight amount of one and set the
+weight unit to minutes. This short pause
+gives the system enough breathing room
+to finish generating the image before
+the workflow continues. After saving and
+executing, the workflow pauses as
+expected. holding for 1 minute before
+moving on to the next step. That build
+and delay keeps everything smooth
+avoiding errors and ensuring the image
+is ready when the workflow needs it.
+After giving Nano Banana enough time to
+finish, the next step is actually
+retrieving the generated image. The post
+request kicked off the job, but it
+didn't return the final file right away.
+To pull the completed image into our
+workflow, we'll add a get HTTP request
+node., Inside, and init,, we'll, drop, in, the
+node and configure it using the C URL
+example provided on the nano banana
+model page. That request is then pasted
+into the node so the workflow knows how
+to check the status of the image
+generation. Under task ID, we'll map the
+dynamic value from the previous post
+node to make sure the request is tied to
+the right job. For authorization, we'll
+copy the API key we used earlier and
+paste it into the heather in bearer
+format. After executing this step, the
+workflow fetches the finished nano
+banana image. Right now, the image is no
+longer pending and it's ready to be used
+in the blog post and carried forward
+into the publishing stage. Sometimes
+even after running the get request, the
+image still isn't ready. I don't want to
+let the workflow fail or try to move
+forward with an incomplete file. Here
+we can build in a simple loop that keeps
+checking until the image is fully
+processed. This will be done using an if
+node paired with a weight node. We'll
+start by adding an if node into the
+workflow. For value one, we'll map the
+state from the get request node. The
+type is set to string and the condition
+is is equal to. For value two, we'll
+enter success. This creates the
+condition. If the state is not success
+the workflow will follow the false
+branch. Next, we'll attach a weight node
+to the false branch. The weight amount
+is set to 30 and the unit is set to
+seconds, giving Nano Banana more time to
+finish process. Then we'll connect the
+wait node back to the get request node.
+So the workflow loops until the state
+changes to success. Once this logic is
+in place, the workflow keeps retrying
+automatically until the image is marked
+complete. Only then does it continue
+guaranteeing that the final image is
+always ready before moving into the
+publishing stage. APIs rarely return
+outputs in a perfectly clean format. The
+image URL retrieve comes wrapped in JSON
+with braces, brackets, and extra
+characters that won't work well when
+passed directly into publishing nodes.
+To fix that, we're adding another set
+field node that cleans up the result
+JSON value and turns it into a simple
+usable string. After dropping the node
+into the workflow, we'll configure it by
+mapping the result JSON from the
+previous node. The type is set to string
+and we'll use a short piece of prepared
+JavaScript to strip out the unwanted
+characters. Once everything is set
+we'll run this step. We got here a clean
+URL free of the clutter that comes with
+raw JSON instead of risking mapping
+errors or broken links. The workflow has
+a polished string that can be passed
+forward into the publishing stage
+without problems. All right. Publishing
+usually means logging to WordPress
+formatting everything by hand, and
+double-checking details. Here, the
+workflow eliminates all of that. Hosting
+the final blog securely and consistently
+through automation using OOTH2
+authentication. The HTTP request node
+handles the publishing step directly
+creating a smooth end- to-end pipeline
+from planning to live article. To build
+this, we'll add an HTTP request node
+into the workflow and set the method to
+post. The URL comes from the prepared
+script, which changes depending on your
+WordPress site. For authentication
+we'll select the generic credential type
+and use OOTH 2 API. Inside N, we'll
+generate new credentials by creating an
+application in the WordPress developer
+resources. Then copy over the
+authorization URL, access token URL
+client ID, and client secret. The scope
+will be set to global. Authentication
+goes in the body. And once saved, the
+connection is ready. Next, we'll
+configure the request parameters.
+Heathers are enabled with content type
+set to application/json.
+The body includes the title and slug
+from the slug plus title post summary
+agent node. the content pulled in with a
+prepared JavaScript expression and the
+status set to publish. Let's execute
+this step. The workflow now sends the
+complete blog post directly to
+WordPress. The node returns a link that
+we can open to confirm the post is live.
+At this point, the entire process
+planning, writing, image duration
+formatting, and publishing is fully
+automated. A little reminder for those
+using WordPress.org or inside of
+WordPress.com. The built-in WordPress
+node in N8N can replace the HTTP request
+method. You simply paste in your
+WordPress credentials and map the fields
+and the workflow will publish just as
+smoothly. The last piece of the pipeline
+is keeping records straight. After a
+post goes live, we don't want to track
+it manually in spreadsheets or risk
+forgetting to mark it as completed. The
+workflow will handle this automatically
+with two simple steps. Updating the
+original sheet to mark the topic as
+finished and appending the finalized
+blog details into a dedicated completed
+sheet. First, we'll add a Google Sheets
+update row in sheet mode. The resource
+is set to sheet within document and the
+operation to update row. We'll select
+the same document and sheet used
+earlier. Then switch mapping column mode
+to manual. per column to match on. We'll
+choose row underscore number and map it
+from the Google Sheets node at the start
+of the workflow to make sure the right
+row is updated. From there, we are going
+to remove any unnecessary data and set
+the completed column to yes. Running the
+step confirms the update by returning a
+yes, which means the block status is now
+marked complete. Next, we'll add a
+Google Sheets append row in sheet node.
+Again, resources set to sheet within
+document and the operation to append
+realm. We'll select the document and
+then target the completed sheet. In
+manual mapping mode, we'll match each
+field carefully. Blog title from the
+slug plus title plus summary agent
+keywords from the get row sheet note
+summary from the slug plus title plus
+summary agent, and the URL from the post
+notes link field. Executing this step
+successfully logs the entry into the
+completed sheet. Right now, the loop is
+closed. The workflow not only plans
+writes, and publishes blog posts, but
+also keeps a clean, up-to-date record of
+every article that goes live. From
+ideiation to publishing to recordeping
+the system is fully automated, leaving
+no gaps to manage formally. From
+ideiation to publishing to recordeping
+the system is fully automated, leaving
+no gaps to manage manually. Thanks for
+watching. I hope this breakdown helps
+you see how simple it is to run SEO on
+autopilot. Don't forget to check the
+tools in the description and I'll see
+you in the next one.

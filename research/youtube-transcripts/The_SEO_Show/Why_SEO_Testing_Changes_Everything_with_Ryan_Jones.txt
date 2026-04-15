@@ -1,0 +1,823 @@
+Hi Ryan, we are live. Welcome to the SEO
+show. Yeah, thank you very much. Thank
+you for having me. Excited to uh to chat
+a bit and uh and yeah. Yeah, learn a bit
+more as well. Yeah. Awesome. Well, we're
+covering the topic of testing today in
+SEO, which it's something that really
+interests me because in the SEO world,
+people will often repeat things verbatim
+that they read somewhere that they saw
+online, but they haven't actually tested
+themselves. and they'll speak with very
+much, you know, a lot of authority or
+confidence about something but actually
+haven't done it themselves. So, I always
+like personally to try and test things
+where I can just to see how the world
+works. But yeah, you're here today to
+talk about testing. So, maybe if you
+could give us a bit of a background
+about yourself and then explaining, you
+know, when we talk about SEO testing,
+what are we talking about from an
+overarching sense and then we'll get
+into the nitty-gritty.
+Yeah, absolutely. Yeah. So, uh, so a
+little bit about me. I started my sort
+of SEO career back in
+2015. Out straight out of secondary
+school in the UK. I was I was kind of
+one of the lucky ones, I suppose. I
+actually had I had no idea what I wanted
+to do when I when I left school, apart
+from the fact that I didn't want to go
+to uni. Didn't necessarily want to do
+sort of uh the college route or anything
+like that. um went into it on the basis
+of I liked computers and this was a job
+that would allow me to work on computers
+for the majority of the time and and
+yeah ended up really loving it. So uh
+yeah 10 nearly 10 years in now when
+August rolls around it'll be uh it'll be
+a full 10 years. So, uh, yeah, and then
+the last nearly two years at SEO
+testing, sharing my knowledge, that kind
+of thing, appearing on obviously like
+podcasts like this and and helping grow
+the brand that way. And uh, yeah. Yeah.
+So, when we when we talk about SEO
+testing, I think there's kind of two
+sort of descriptions I hear about it.
+the one the one that we've used in the
+past that we've kind of always been
+doing SEO testing in the sense that like
+when SEO became a thing, we would see
+something on a site that we weren't
+necessarily happy with, whether it was
+traffic, rankings, that kind of thing,
+we'd make a change based on, I don't
+know, what we'd seen online or what we'd
+seen certain creators come out with,
+make a change, and then kind of go back
+on a rank tracker or or Google Google
+Analytics and and look at it that way.
+But now with the sort of a lot more data
+we have available, a lot more tools that
+are available, even just like with like
+G4 and their event based tracking and
+things coming in like that, we can we
+can test not only can we test a lot
+more, but we can get a lot more data
+back as well. So we can be more accurate
+when we sort of look back and say, okay,
+that was a successful test or that was
+okay, that's something that hasn't quite
+worked and we need to to learn a bit
+more about about why it didn't work.
+Awesome. So, you know, in the Google Ads
+world, bet testing of a landing page is
+a pretty straightforward concept. You
+know, 50% of traffic sees one version,
+50% another. You track which one
+performs better and there's hopefully a
+winner there. The SEO world, I guess, is
+a little different because there's so
+many different variables at play. Can
+you maybe walk us through an example of
+what some tests are that you're commonly
+running and where you see success with
+testing in the SEO world?
+Yeah. So, a few of the ones that have
+worked um like for us, we're testing on
+our own site. The the kind of caveat
+here is just because it's worked for us,
+it doesn't necessarily mean it's going
+to work for for other sites, but it's
+it's always something that will uh will
+give good good ideas and and good
+hypotheses for people to test and things
+like that.
+It it kind of sounds a bit stupid to say
+almost, but what's what's really worked
+well for us has been the SEO basics in
+the sense that like uh two of our most
+successful tests almost of all time that
+we run frequently are content refreshes
+and updating internal links to obviously
+new content or older content and things
+like that. But in terms of I think I was
+looking at our dashboard the other day
+and I think over the 21 content refresh
+tests that we've done since at least
+I've been at SEO testing 18 of those are
+have been positives and they've
+increased clicks by at least 20% each
+time they've been successful. So uh
+that's uh that's obviously a pretty good
+testing when it comes to my book. And uh
+an interesting one was as part of the
+content refreshes. I think my thought
+process going in was, okay, this piece
+of content isn't performing well, so I
+need to obviously I need to like add
+more content, cover more topics, that
+kind of thing, try and match search
+intent better.
+I think some of the most successful ones
+we have had have been by actually
+removing a lot of content and and this
+came from sort of research come out
+about like vector embeddings and that
+kind of thing how Google understands
+content and essentially removing a lot
+of filler words and uh yeah I think we
+managed to double traffic to one post by
+essentially removing half the content
+which uh it seems counterintuitive in my
+book but obviously it works so we uh we
+keep doing it that way. Yeah. Awesome.
+And how do you how do you measure it? So
+like if if let's say you're testing a
+content refresh, are you focusing on
+just one variable, let's say an H1 tag
+for argument sake, and you're just
+tweaking that on one page and then
+there's some sort of a control or how do
+you sort of set these tests up to see
+what's going on?
+So we do it um we do time based testing
+when we do content refreshes purely
+because we're testing multiple things at
+the same time in terms of like so when
+we'll do a content refresh we usually
+update the title tag we usually update
+the meta description and we're obviously
+updating the content that's actually on
+the page as well with time based testing
+the obviously we run on our platform
+that allows us to it's one of those ones
+we we're not necessarily going to know
+like the exact change that we made that
+increased or decreased traffic and
+things like that. But it allows us to
+take seasonality out of it, that kind of
+thing, and and test that way because
+we've got historical data to pro. So, so
+we know like if a certain blog post
+comes up in like goes up in in traffic
+in June, we know that okay, we have to
+like factor that in or maybe hold the
+test off until traffic has returned to
+normal levels. But then for for other
+test types like changing structure and
+things like that then that's where we
+like to use split testing which is
+exactly what you've described of
+obviously using control variance and
+test variance and things like that and
+that's a much more accurate way of
+testing that kind of thing. So yeah
+there's there's multiple test types for
+for different types of tests that you
+want to run. Yeah. Awesome. And do you
+find this testing um does it sit in
+isolation? like what works for one
+website might not necessarily always
+work for other websites like are you
+sort of are you able to roll out the
+findings from a test to multiple sites
+or are they are they sort of working on
+a per site basis? It is one of those
+ones that works on a per site basis in
+the sense that like we because obviously
+we have access to like client tests and
+stuff and and we occasionally look at
+those. So we found that like stuff that
+works really well for us might not work
+for another site but what obviously
+works for them might not work for us.
+And it's one of those ones that um I
+imagine we'll probably talk about it in
+a little bit of like building a bit of a
+a testing mindset in the sense that we
+we want to have a big backlog of tests
+that we've run in the past. So we we can
+kind of then have a better idea of
+what's going to work and to what level.
+Obviously with the caveat of obviously
+things in SEO change. So something that
+worked really well a year ago might not
+necessarily work as well today. But
+allows us to be a bit more educated when
+we form hypotheses and things like that
+or or whether we want to change
+something. We we can go back on that
+data and okay, we can say like almost
+every time that we've run this type of
+test in the past, it's been positive. So
+we can we can look back on that look
+back on it that way and uh and try and
+be a bit more educated about it. Yeah.
+Great. So am I right in assuming that
+this sort of stuff you need some sort of
+baseline level of traffic like it's
+going to suit certain types of sites
+maybe not others you know like a small
+local business they might not be
+suitable for SEO testing because they
+don't have the traffic levels whereas
+maybe a big e-commerce site is more
+where you see this stuff working.
+Yeah, generally I mean it is always
+advisable to to test on sites that have
+at least a decent level of of underlying
+traffic, but um that's especially for
+like split testing and things like that
+when you're running with like controls
+and and test variables and things like
+that. And uh yeah, certain like local
+businesses might not be a candidate for
+that type of testing, but they might be
+more of a candidate for like timebased
+testing because you can work on existing
+traffic levels. As long as you've got
+even if the traffic number is low, you
+can still as long as you've still got
+like a decent amount of historical data
+there, you can test based on that. The
+only sort of thing you have to keep in
+mind with that kind of stuff is if
+you're working with lower traffic
+levels, you might have to keep the test
+running for longer to make sure you
+reach statistical significance. Whereas
+an e-commerce site that's getting sort
+of thousands of clicks a day might reach
+statistical significance quicker. So
+they they could finish a test up in sort
+of two weeks. whereas a smaller local
+businesses might need, you know, sort of
+six to 8 weeks. That that's something to
+keep in mind. And then obviously just
+with that, it's keeping an eye on like
+Google updates and things. We obviously
+know that Google updates their
+algorithms thousands of times a year and
+they they mostly don't tell us when when
+they do things like when they do change
+things, but keeping an eye on when they
+actually do confirm stuff like the March
+core update that's just finished rolling
+out. And uh but you can also then at the
+at the same time you can keep an eye on
+like the volatility trackers as well. So
+you know if if obviously things start to
+peak a little bit then you can uh you
+can kind of look at it that way. Okay.
+Okay maybe maybe there's something sort
+of algorithmically going on that we we
+might want to keep an eye on. But uh but
+the kind of yeah overarching point is
+with time based testing for for smaller
+more local sites as long as you've got a
+good level of historical data to work on
+even if it's traffic's like lower and
+it's been a bit stagnant for a time. As
+long as as long as the amount of
+historical data is there that you can
+take sort of seasonality out of it and
+that kind of things then uh then you're
+probably a good candidate for that type
+of testing. Do you have any examples
+that come to mind of tests that you've
+done or maybe that you've seen in client
+accounts that have really moved the
+needle? You know, that their traffic was
+down here and now it's up there because
+of something that they've discovered in
+testing or something that they're able
+to unearth using these principles that
+you talk about just so people get an
+understanding. I guess the theory of
+testing is all good, but what does it
+actually translate to for people uh in
+the real world in terms of results?
+Yeah, one of the the things that I mean
+I suppose you could you could
+potentially class our site as as kind of
+one of those smaller sites. We don't
+necessarily get like a whole lot of
+traffic. Uh we have enough to test on
+and that kind of thing, but but what one
+thing that worked for us, so when when I
+first joined the business, obviously the
+the kind of growth needle for us was
+publishing a lot of content in certain
+certain clusters and that type of thing.
+So we were focused on putting out a lot
+of content and and what we found was
+that kind of stagnated after a little
+while. the the the returns we were were
+seeing kind of slowed down a little bit.
+And one of the things that we did, we we
+had an ongoing process of um creating
+videos for YouTube um for most of the
+content that we produced on the website
+just as a kind of like almost like a
+content distribution model. We obviously
+share it on social media, that kind of
+thing. Share it over YouTube. And we had
+the idea of well, okay, why don't we why
+don't we add embed these YouTube videos
+to the top of the fold like right right
+at the start of the content have like a
+maybe a little introduction and then
+just embed the video there because
+people obviously will learn stuff in
+different maybe someone doesn't want to
+sit down and read a whole 3,000word blog
+post or anything like that. But if they
+can watch like a five, six minute
+YouTube video, then then they might be
+inclined to stay on the site a little
+bit longer or finish watching that and
+then maybe click through to some
+different pages. And then there's all
+kind of factors honestly that Google
+might be tracking or maybe maybe not of
+like okay they click something
+additional on the site i.e. that video
+and that kind of thing. And what we
+found that was for for almost every
+video we were embedding onto the the
+site the traffic went up and even if the
+traffic didn't go up i.e. more people
+weren't coming to the site, but the
+people who were landing on the site,
+they were staying longer. They were
+clicking through to more pages. They
+might have actually been like signing up
+to more trials as well. So, that was
+like overwhelmingly positive for us to
+to do that kind of thing. So, when it
+comes to like smaller sites, it's one of
+those ones it's it's once you have an
+idea, you can absolutely test it. And
+then obviously if it's positive, you
+could you know that because we we only
+did it on like a small sub subsection of
+pages at first. We didn't want to go
+through the effort if it wasn't going to
+be worthwhile for us. So, that was one
+of those ones that we we had an idea
+about. We tested it, became
+overwhelmingly positive, and and that
+was then like a process that we rolled
+out across almost every single blog post
+on the site. Awesome. What about
+conversely, have you found anything that
+is maybe promoted out there in the SEO
+world that when you test it doesn't have
+an impact?
+Yeah, an interesting one was I know the
+standard advice that goes around like at
+the start of a new year, I'll update all
+your blog posts to u from like 2024 to
+25. We did that just because it was
+obviously the standard thing and uh
+yeah, for our site in particular, it
+just it had a very like you could
+probably say it was it was negligible in
+terms of the impact that it had. In
+actual fact, we actually saw like a
+slight drop in traffic for doing that.
+Whether it the reasoning for that, I
+don't necessarily know. I don't know
+whether it was because Google was
+realizing that we were changing just
+like literally just the the title we
+were following through with any sort of
+actual updates and that kind of thing on
+on the content. So they were they were
+noticing like a change and then maybe
+obviously going through and saying well
+okay they've changed the year but
+they've not changed anything else so
+let's just leave it as it is and that
+kind of thing. But uh but yeah that's
+that's like a decent example of the the
+canned advice that you see all over like
+LinkedIn and X and things like that that
+we did and it just yeah it just didn't
+have any impact at all. So, I suppose
+the uh the done thing that would have
+been like, okay, maybe every blog post
+that says it's a guide for 2024, maybe
+we actually should have updated that at
+least a little bit and then updated it
+to 2025. Yeah, that's that's always an
+interesting one of the things I see that
+like you you should absolutely do this
+or may may maybe you should only uh do
+it if you're actually updating the
+content as well. Yeah. Yeah.
+Anecdotally, um I was on Twitter a while
+ago and I saw someone I chimed in on
+some SEO chat and someone very
+confidently spoke about how guest posts
+don't work anymore. Like if you buy a
+guest post, you won't rank. So I went
+and bought two domain names very close
+to each other just using a gibberish
+phrase that if you search Google for it,
+it didn't exist. I put the exact same
+content on each page, got both sites
+indexed, but then I built a few guest
+posts to one of those pages, tracked the
+rankings, and then the one with the
+links ranked higher than the ones
+without the links. So, I was able to go
+back and say, well, look, I tested this
+and guest posts do work. So, are you
+just saying this or are you actually
+testing things? And I I think that
+mindset of testing is something that not
+enough SEOs really I guess have. You
+know, they do sort of follow the advice
+generally that's out there, you know,
+from the the gurus in the space or
+YouTube or wherever they find it. But um
+you mentioned earlier developing a
+testing mindset. What does that actually
+look like in practice? Like how can
+somebody go about not just doing SEO on
+their site but trying to think about
+this concept of testing?
+Yeah. Yeah. So I think when it when it
+comes to sort of developing a a sort of
+mindset about testing, I think the the
+first thing to sort of mention is is
+exactly what you just said there of
+questioning the assumptions rather than
+just sort of accepting like the SEO
+rules that you see on LinkedIn. And and
+one of the things I like to say to
+people as well if they ask me for
+advice, maybe if they've seen me on like
+a podcast or or they come up to me after
+a talk I've done or something, they they
+ask for my advice on things. And one of
+the things I do like to say is uh you
+shouldn't necessarily like do something
+that I've said has worked on our site
+just because it has worked like don't
+don't listen to me like you can take
+ideas that's absolutely fine and then
+obviously go and test it on your own
+site but uh I think it comes down to
+yeah obviously treating like questioning
+things rather than just just following
+it as like the standard advice. um
+treating all decisions as hypotheses
+rather than sort of big permanent
+decisions that are going to be made and
+and that kind of thing because at the
+end of the day if you test it and you
+test it on a smaller subset of pages and
+it doesn't have the impact you have it
+it's not the best idea to then just say
+well we've committed to doing this now
+let's roll it out anyway and see what
+happens. It comes through with like the
+habits that you have of like regular
+like the kind of habits that we all have
+anyway of keeping keeping an eye on data
+and things like that. So we notice that
+if a test we're running has like a
+really negative impact then again it
+makes sense to stop that completely and
+don't necessarily uh run the test to to
+completion because at the end of the day
+it's it's it's having a very negligible
+impact. There's obviously some tests
+that we see that will have a slight dip
+maybe while Google reindexes certain
+things and then and then we see an
+increase from that and and that's one of
+the ones where we can kind of sit there
+and let and let that happen. But
+obviously if you change something in
+rankings and traffic tank then don't
+just sit there and say it will come
+back. It will come back and but yeah you
+can you can absolutely say okay that was
+a failed test and let's stop that and
+and and kind of following on from that I
+think a big thing is is being
+comfortable with being wrong. uh is one
+of those ones when when you test as like
+as much as we do or as much as as people
+who have this sort of mindset like not
+every test you run is going to be
+successful and and the important thing
+to come back from that is okay let's
+let's sit down and work out why it
+wasn't successful. Let's let's not just
+okay it was a failed test let's move on
+but try and try and work out the reasons
+why and then and then sort of rework it
+and then kind of test again and that
+kind of thing. So yeah, it's uh it all
+just follows through from the the sort
+of mindset that you have about things.
+Don't don't treat things as as permanent
+changes. Treat things as hypotheses to
+test on. Realize that nothing's
+nothing's permanent and and that kind of
+thing. On the topic of failed tests, do
+you see any, I guess, common pitfalls or
+mistakes that people are making when
+they get into this space?
+Yeah, I think uh one of the I think one
+of the biggest mistakes I see is not
+letting tests run for a long enough
+period of time um and that kind of
+thing. So that they might leave a test
+running for a week, see a little bit of
+a a downturn and then say, "Okay, that's
+failed. Let's let's let's turn that
+off." So I think it is important for
+unless obviously like I just said like
+unless traffic traffic and rankings like
+really tank then you can you can
+probably leave leave things uh for a
+good amount of time until you've got
+that statistical significance. Um and
+then another test uh like another
+mistake that that we see pure purely
+because sort of like people were testing
+different ways but because of how our
+tool is built we use Google search
+console data to establish whether tests
+have been successful or not and we have
+had some people like come to us on the
+site will come to me directly and say I
+started to run this test and then my
+average position like really dropped and
+uh I'll like log into the dashboard take
+a quick look and I'll see that the
+average position dropped because they
+start ranking for a lot more queries. So
+it makes sense for the average position
+to drop because like if previously they
+rank it like position five for two
+queries and then all of a sudden they
+start ranking for a few hundred queries,
+it makes sense that that average
+position is going to drop. So it just
+comes to to like don't look at certain
+things in a silo and look at all the
+data as uh as a whole and then and then
+make a decision from that. But I think
+those are the two sort of most common
+ones. Yeah. Awesome. That's a great
+point you make about you know average
+position. It's how you interpret the
+data. And I know when you run an AB
+test, you can be guilty of if you have a
+favorite out of the two options and it
+starts doing really well, you can think,
+"All right, I'm on to a winner here and
+go with it." But over time, those
+initial results might fade off. Maybe in
+this space, there's certain data or
+stuff that SEOs should be collecting or
+incorporating in their tests or being
+across to make these tests meaningful.
+What's the stuff that people might need
+to be aware of? Is it as simple as like
+this got more clicks or are you are you
+sort of looking a bit more in depth when
+you're you're measuring success?
+Yeah, it really depends on on what the
+goals are for for each individual
+business who uh turned into testing and
+that kind of thing. So like for for us
+and certain tests that we run, it might
+just be a case of if traffic goes up
+then that was a successful test and that
+kind of thing. But I think the point I
+like to make and and it's a point that a
+lot of SEOs quite rightly make is is
+don't necessarily sit there and take
+traffic as as the the sort of metric to
+be tracking. What what you really should
+be tracking is is the business impact
+that it's having. So if we if we run a
+test because we will track like G4
+events and stuff. So we have all our key
+events set up of people signing up for
+trials and that kind of thing. So if we
+make some changes to a piece of content
+and we see that okay less people are now
+landing on the site but the people that
+are landing on the site are much more
+sort of qualified leads and that they're
+converting at a much higher rate then
+that's 100% a successful a successful
+test for us even though you might look
+at it from the outset and oh well
+traffic actually dipped 15%. and uh
+where whereas like what we're actually
+doing was getting rid of those sort of
+unqualified visitors and that and that
+kind of thing and we were we were
+ranking in in more of the right places
+and and bringing that more sort of
+qualified traffic through. So I think
+it's always it's always wise to keep an
+eye on the the sort of SEO metrics,
+traffic rankings, that kind of thing,
+keyword, the number of keywords you're
+ranking for, but also keep in mind like
+tracking your business metrics as well,
+which is it's easy for people like sort
+of e-commerce sites and SAS sites and
+things like that where the sort of
+metrics are really are tied into the
+website, but for a local site, it might
+mean tracking phone calls and things
+like that that come through from certain
+pieces of content and that kind of
+thing. But h yeah, it's always worth
+keeping an eye on that because I have
+seen a lot of tests where traffic has
+gone down but leads have gone up and
+that kind of thing and and that's always
+a successful test in my book. Yeah,
+absolutely. A lot of people get wedded
+to the vanity metric of traffic when
+they had maybe a blog post ranking for
+some longtail term that did absolutely
+nothing for them. And you quite rightly
+say it's about making more sales at the
+end of the day for most businesses.
+That's why they're interested in SEO.
+G4, how do you find that? you know like
+universal analytics great J4 I
+personally find it painful I think a lot
+of you know local service businesses
+probably don't have a great base of
+analytics in place is that probably
+something that needs to be addressed
+before you even start looking at testing
+like having that bank of data there
+tracking those events in J4 as painful
+as it is to set it up and you know
+having some data there to work with
+before you go down the path of testing
+yeah I think uh I suppose to answer the
+second question first in the sense that
+you don't necessarily hard to track
+business metrics and stuff to to run
+successful SEO tests. I say at the end
+of the day like you might just be aware
+of your conversion rate just because of
+UA or because of like the the basic
+metrics that you do have set up in G4.
+You you might know that your conversion
+rate might be 2% and then from there you
+can obviously work out the business
+impact of a successful SEO test and that
+kind of thing. But uh I'm actually a big
+fan of G4 once you get around the
+initial learning curve of like
+especially when it first rolled out and
+and UA disappeared and logging into the
+and looking the dashboard and and kind
+of hating it for probably six months but
+uh yeah when you actually drill down
+into it and uh and yeah you have events
+set up and things like that even though
+they are quite painful to set up the
+first instance especially if you're a
+site that like like for a SAS business I
+think it's a lot easier because we only
+have a few key events that we really are
+tracking. But when you're like a
+multinational e-commerce business, for
+instance, you're going to have like a
+lot of different events. You might have
+like people sign up for newsletters,
+obviously, people purchasing and things
+like that. But uh yeah, when you when
+you've gone through the initial pain of
+setting everything up, it is definitely
+an advantage because there are like like
+SEO testing does this and I know there's
+different tools out there that have G4
+integrations in as well, which means
+that you can just obviously set up an
+SEO test really quickly and then just
+click the key metrics that you want to
+track as well or the key events that you
+want to track and then that data will be
+included at the end and you you can just
+look into it and say, okay, well, we had
+like before we made the change, we had
+this many key events completed and once
+we made a change we had this many and
+you can say that okay this was a really
+positive test for us as well. So maybe
+um could you let me know a little bit
+more about SEO testing itself? Am I
+right in um assuming that it plugs into
+your search console G4 and it sort of
+aggregates the data in that and then
+it'll have a look back for a time period
+and you can compare you know stats for
+the different variants and and that sort
+of stuff. Is that how it works or is
+there more going on with the way the
+tool works? Yeah, exactly that. In terms
+of the testing point of view, that's uh
+that's kind of that's how we run the
+test is we we'll take data from Google
+search console and J4 obviously if
+people have the the J4 integration
+plugged in which most most people do. Um
+but yeah, we have different types of
+tests available. We have timebased
+tests. We have three versions of them.
+Um, so you can test obviously single
+page, uh, a group of pages or even like
+URL changes as well, which is good for
+testing like redirects and things like
+that to see whether that has a positive
+impact. Or another like successful test
+that we ran with that was getting like
+taking one large piece of content and
+then splitting that out into different
+smaller pieces. That was a successful
+test for us. Um and then yeah we have
+split testing involved in in the tool as
+well where people will be able to say
+okay I want these pages as control and
+these pages of test and we'll aggregate
+the data that way but uh yeah there's
+there's certainly a lot more to the tool
+than than just test obviously testing is
+the main part but where the tool was
+first built was it it came I think
+purely out of convenience so Nick who
+founded the tool he started building it
+in 2019
+um purely of a like out of a need to he
+he got really tired of just having the
+16 months of J4 data available. He said,
+"Well, what if I build a tool that will
+archive it for us? So then I can go back
+in a few years and I have like years
+worth of GSC data available." And and it
+came from that. And then and then from
+there from there like the idea sparked
+of okay, if I've got all this data
+available, maybe it makes sense to add
+like testing functionality and things
+like that. And then uh yeah, because we
+have access to all like J4, GSC data.
+We've got like a lot of reports and
+stuff that just kind of saves SEO time
+really. It's like the we always do we do
+say that the the like the reports that
+we create are 100% things that people
+can do with GSC itself. But the the big
+thing is it takes a lot of time and and
+obviously being an SEO time, especially
+if you're like agency side for example,
+you only have like a set amount of hours
+to work on certain clients and things
+like that. So if we can save SEO's time,
+then we've done our job well as well.
+Yeah. Awesome. Love it. Well, um this
+has all been great. If people want to
+find out a little bit more about
+yourself or maybe the tool, where can
+they go to connect with you once they've
+listened to the show? Yep. So, I'm on uh
+all all social networks. So, LinkedIn,
+X, Blue Sky, Threads, all the all that
+kind of thing where where you'll see
+me just talking my ass off about SEO and
+that kind of thing. Lots of threads,
+lots of posts and things like that. But
+you can you can connect with me that
+way. And then, yeah, it's seotesting.com
+if you want to learn more about the
+tool.
+Awesome. Well, Brian, that's been really
+interesting. Thanks for joining us on
+the SEO show.
+Thank you very much for having

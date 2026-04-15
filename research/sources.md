@@ -26,7 +26,7 @@ This document lists the 10 experts of the AI-powered SEO content production topi
 
 ### 5. Sam Oh (Ahrefs)
 - **Role:** VP of Marketing at Ahrefs.
-- **Source:** [YouTube - Ahrefs Video](https://www.youtube.com/watch?v=_s2h7X-c2jE)
+- **Source:** [YouTube - Ahrefs Video](https://www.youtube.com/@AhrefsCom)
 - **Annotation:** Ahrefs is the industry standard for SEO data. Sam Oh provides technical, step-by-step tutorials on combining AI with hard SEO data to improve search visibility.
 
 ### 6. Juan Gómez Manzanero
