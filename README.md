@@ -1,32 +1,46 @@
-#Portfolio Project
+\# 100Hires - AI-Powered SEO Research Project
 
-#Tools Installed
+This repository contains the initial research phase for developing a high-performance SEO playbook focused on AI automation and programmatic content production.
 
--Cursor IDE
--Claude Code Extension
--Codex Extension
+## 🛠 Tools & Environment
+- **IDE:** Cursor
+- **AI Extensions:** Claude Code, Codex (setup and troubleshooting)
+- **Tech Stack for Research:** Python 3.13, Requests, Supadata API, Dotenv.
 
-#Steps Completed
-1. Installed Cursor IDE
+## ✅ Steps Completed
 
-2. Added the Claude Code add-on in Cursor and tried to log in
+### 1. Environment Setup
+- Installed and configured Cursor IDE with relevant extensions.
+- Configured GitHub repository and established a CI/CD-ready workflow with regular commits.
 
-3. Added the Codex add-on in Cursor and logged in
+### 2. Expert Selection & Research (Step 2)
+- Identified **10 high-signal experts** in the AI-SEO niche (including Lidia Infante, Jake Ward, and Juan Gómez Manzanero).
+- Focused on profiles with a technical approach to automation, n8n workflows, and pSEO (Programmatic SEO).
 
-4. Created a public GitHub repository (I named it 100Hires)
+### 3. Automated Data Collection (YouTube)
+- Developed a **Python automation script** (`collect_youtube.py`) to interface with the **Supadata API**.
+- Integrated metadata extraction to dynamically organize transcripts into a directory structure based on the content creator's name.
 
-5. Opened the repository in Cursor
+### 4. Curated Content (LinkedIn)
+- Performed a **manual collection** of high-signal posts from selected experts.
+- Documented each post with technical justifications and relevance to the project's goal of building scalable SEO pipelines.
 
-6. Created a README.md file
+## 🚀 Challenges & Solutions
 
-7. Logged into Codex
+### Tooling Constraints
+- **Claude Code/API Key:** Encountered credit requirements for the Claude Code terminal extension. 
+- **Solution:** Switched to a hybrid approach using Cursor’s native AI capabilities and independent Python scripts to maintain momentum without being blocked by third-party subscription tiers.
 
-8. Committed and pushed to GitHub
+### API Integration Hurdles
+- **Challenge:** The initial transcript API endpoint lacked metadata (titles/authors), resulting in "Unknown" file naming.
+- **Solution:** Refactored the collection script to implement a two-step process: first querying the `/v1/youtube/video` endpoint for metadata and then retrieving the transcript. 
+- **Result:** Successfully automated a clean, organized directory structure for the research database.
 
-#Challenges & Solutions
+### LinkedIn Scraping Strategy
+- **Challenge:** LinkedIn's aggressive anti-scraping measures.
+- **Judgment:** Decided on **Manual Curation** over automated scraping to ensure 100% data quality and "high-signal" relevance. This avoids the noise of mass-scraping and provides a more strategic research base.
 
-While trying to connect to Claude Code, this message appeared:
-"Claude Max or Pro is required to connect to Claude Code. Sign up for a Max or Pro subscription to connect your account, or use your API key."
-
-So I tried to use an API Key, and it asked me to buy $5 in credits. I didn't.
-Then I installed Claude Code in the terminal; same problems.    
+## 📂 Project Structure
+- `/research/youtube-transcripts/`: Automated transcripts organized by author.
+- `/research/linkedin-posts/`: Curated expert insights with technical annotations.
+- `collect_youtube.py`: Custom Python script for data gathering.
